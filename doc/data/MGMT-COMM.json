@@ -1,0 +1,154 @@
+[
+  {
+    "__EMPTY_5": "At least 1 out of Industry mentor or Alumni Mentor or Faculty Co-Mentor from outside MRU is required."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": "Sl . No.",
+    "__EMPTY": "Name of Faculty",
+    "__EMPTY_1": "Designation",
+    "__EMPTY_2": "Problem Statement",
+    "__EMPTY_3": "IDPaspectInproblemStatement",
+    "__EMPTY_4": "facultyComentorFromMRU",
+    "__EMPTY_5": "industryMentor",
+    "__EMPTY_6": "alumniMentor",
+    "__EMPTY_7": "facultyComentorOutsideMRU",
+    "__EMPTY_8": "DisciplinesInvovled",
+    "__EMPTY_9": "ExpectedOutcome",
+    "__EMPTY_10": "SDGs",
+    "__EMPTY_11": "societalOrIndustrialImpact"
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 1,
+    "__EMPTY": "Prof. (Dr.) Parul Jhajharia",
+    "__EMPTY_1": "Prof., Dean Mgmt. & Comm."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 2,
+    "__EMPTY": "Prof. (Dr.) Pooja Kapoor ",
+    "__EMPTY_1": "Professor"
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 3,
+    "__EMPTY": "Prof. (Dr.) Pragati Chauhan & Dr. Teena Hassija",
+    "__EMPTY_1": "Professor",
+    "__EMPTY_2": " Tech Startup Incubation Project ",
+    "__EMPTY_3": "Focus: Development of a tech-based product or service.\r\nEngineering Role: Design and prototype development.\r\nManagement Role: Business planning, marketing, funding strategy.\r\nLaw Role: Intellectual property rights (IPR), regulatory compliance, contract drafting.\r\n",
+    "__EMPTY_8": "SOE\r\nSOL\r\nSoMC"
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 4,
+    "__EMPTY": "Prof. (Dr.) Yogita Sharma",
+    "__EMPTY_1": "Professor\r\nDean Student Welfare",
+    "__EMPTY_2": " Technology Commercialization and IP Strategy\r\n",
+    "__EMPTY_3": "Focus: Taking innovations from lab to market.\r\nEngineering Role: Innovating or refining the tech.\r\nManagement Role: Market research, business modeling, investor pitches.\r\nLaw Role: Drafting patent claims, licensing agreements, IP portfolio management.",
+    "__EMPTY_8": "SOE\r\nSOL\r\nSoMC"
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 5,
+    "__EMPTY": "Prof. (Dr.) Sunil Kr Roy",
+    "__EMPTY_1": "HoD, Professor",
+    "__EMPTY_2": "Smart City Solutions",
+    "__EMPTY_3": "Focus: Urban development projects using smart technology.\r\nEngineering Role: IoT systems, sustainable infrastructure, data analytics.\r\nManagement Role: Project management, financial viability, stakeholder engagement.\r\nLaw Role: Urban laws, environmental regulations, public-private partnerships.\r\n",
+    "__EMPTY_4": "Dr. Gurpreet Kaur",
+    "__EMPTY_8": "SOE\r\nSOL\r\nSoMC"
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 6,
+    "__EMPTY": "Prof. (Dr.) Animesh Singh",
+    "__EMPTY_1": "Professor"
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 7,
+    "__EMPTY": "Dr. Akanchha Singh",
+    "__EMPTY_1": "Asstt. Prof."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 8,
+    "__EMPTY": "Dr. Gurpreet Kaur",
+    "__EMPTY_1": "Assoc. Prof.",
+    "__EMPTY_2": "Determination & Assessment of financial Risk using Predictive Modelling"
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 9,
+    "__EMPTY": "Ms. Khushboo Gulati",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_2": "What financial instruments can effectively drive private investment into renewable energy in emerging markets?",
+    "__EMPTY_3": " Finance, Environmental Policy, Development Studies",
+    "__EMPTY_5": "Miss Sween Adlakha",
+    "__EMPTY_6": "MIss preeti khatri",
+    "__EMPTY_7": "NA",
+    "__EMPTY_8": "Management and Law",
+    "__EMPTY_9": "Research article",
+    "__EMPTY_10": "SDG7",
+    "__EMPTY_11": "Monitoring and evaluation of these instruments generate data on what works—informing better policy, risk pricing, and development planning."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 10,
+    "__EMPTY": "Mr. Maharaj Krishen Koul",
+    "__EMPTY_1": "Assoc. Prof."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 11,
+    "__EMPTY": "Ms. Minakshi Sharma",
+    "__EMPTY_1": "Asstt. Prof."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 12,
+    "__EMPTY": "Mr. Neeraj Chopra",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_2": "How can machine learning techniques improve demand forecasting accuracy in supply chains?",
+    "__EMPTY_3": "Computer Science and Operations"
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 13,
+    "__EMPTY": "Dr. Rashi Banerji",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_2": "examine how cognitive and emotional factors influence financial decisions and mental well-being.",
+    "__EMPTY_3": "The project explores how behavioral finance principles and psychological insights can jointly improve financial decision-making and mental well-being. By integrating finance and mental health disciplines, it aims to develop behavior-based interventions that reduce financial stress",
+    "__EMPTY_5": "Ms Savita Sharma",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "NA",
+    "__EMPTY_8": "Education",
+    "__EMPTY_9": "Blog",
+    "__EMPTY_10": "SDG3",
+    "__EMPTY_11": "Understanding of investor's investment behaviours"
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 14,
+    "__EMPTY": "Ms. Shagun Chahal",
+    "__EMPTY_1": "Asstt. Prof."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 15,
+    "__EMPTY": "Dr. Jagbir Singh Kadyan",
+    "__EMPTY_1": "Assoc. Prof.",
+    "__EMPTY_2": "CSR & ESG Compliance Projects\r\n",
+    "__EMPTY_3": "Focus: Corporate Social Responsibility & ESG.\r\nManagement Role: CSR & ESG reporting frameworks, stakeholder engagement.\r\nLaw Role: Compliance & Impact Assessment.",
+    "__EMPTY_8": "SOE\r\nSOL\r\nSoMC"
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 16,
+    "__EMPTY": "Dr. Shweta Goel ",
+    "__EMPTY_1": "Assoc. Prof."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 17,
+    "__EMPTY": "Dr. Sunil Kr. Singh Kadyan",
+    "__EMPTY_1": "Assoc. Prof."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 18,
+    "__EMPTY": "Ms. Vandana Bhat",
+    "__EMPTY_1": "Asstt. Prof."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 19,
+    "__EMPTY": "Dr. Shuchi Singhal",
+    "__EMPTY_1": "Asstt. Prof."
+  },
+  {
+    "SCHOOL OF MANAGEMENT & COMMERCE:": 20,
+    "__EMPTY": "Prof. Kartikeya Raman",
+    "__EMPTY_1": "Professor of Prac"
+  }
+]

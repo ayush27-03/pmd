@@ -1,0 +1,66 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "name",
+      "email",
+      "password",
+      "role",
+      "rollNumber",
+      "programId",
+      "semester"
+    ],
+    "properties": {
+      "name": {
+        "bsonType": "string",
+        "description": "Full name of student"
+      },
+      "rollNumber": {
+        "bsonType": "string",
+        "description": "Unique student roll number"
+      },
+      "email": {
+        "bsonType": "string",
+        "description": "Unique email for login"
+      },
+      "password": {
+        "bsonType": "string",
+        "description": "Hashed password"
+      },
+      "role": {
+        "enum": [
+          "student"
+        ],
+        "description": "User role"
+      },
+      "mobileNumber": {
+        "bsonType": "string",
+        "description": "Contact number"
+      },
+      "schoolId": {
+        "bsonType": "objectId",
+        "description": "Reference to school"
+      },
+      "departmentId": {
+        "bsonType": [
+          "objectId",
+          "null"
+        ],
+        "description": "Reference to department (if applicable)"
+      },
+      "programId": {
+        "bsonType": "objectId",
+        "description": "Reference to program"
+      },
+      "specialization": {
+        "bsonType": "string"
+      },
+      "section": {
+        "bsonType": "string"
+      },
+      "semester": {
+        "bsonType": "int"
+      }
+    }
+  }
+}

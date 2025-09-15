@@ -1,0 +1,164 @@
+[
+  {
+    "School": "School of Engineering",
+    "Department": "ELECTRONICS & COMMUNICATION ENGINEERING",
+    "PROGRAM": "BACHELOR OF TECHNOLOGY ELECTRONICS & COMMUNICATION ENGINEERING",
+    "SPECIALIZATION": "NA",
+    "Number of students in the 5th semester UG programs": 5,
+    "Department-wise total": 25,
+    "School-wise total": 415
+  },
+  {
+    "School": "School of Engineering",
+    "Department": "ELECTRONICS & COMMUNICATION ENGINEERING",
+    "PROGRAM": "BACHELOR OF TECHNOLOGY ELECTRONICS & COMMUNICATION ENGINEERING",
+    "SPECIALIZATION": "VERY LARGE SCALE INTEGRATION",
+    "Number of students in the 5th semester UG programs": 20
+  },
+  {
+    "School": "School of Engineering",
+    "Department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "PROGRAM": "BACHELOR OF TECHNOLOGY COMPUTER SCIENCE & ENGINEERING",
+    "SPECIALIZATION": "NA",
+    "Number of students in the 5th semester UG programs": 193,
+    "Department-wise total": 376
+  },
+  {
+    "School": "School of Engineering",
+    "Department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "PROGRAM": "BACHELOR OF TECHNOLOGY COMPUTER SCIENCE & ENGINEERING",
+    "SPECIALIZATION": "ARTIFICIAL INTELLIGENCE & MACHINE LEARNING",
+    "Number of students in the 5th semester UG programs": 107
+  },
+  {
+    "School": "School of Engineering",
+    "Department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "PROGRAM": "BACHELOR OF TECHNOLOGY COMPUTER SCIENCE & ENGINEERING",
+    "SPECIALIZATION": "CYBER SECURITY & THREAT INTELLIGENCE",
+    "Number of students in the 5th semester UG programs": 19
+  },
+  {
+    "School": "School of Engineering",
+    "Department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "PROGRAM": "BACHELOR OF TECHNOLOGY COMPUTER SCIENCE & ENGINEERING",
+    "SPECIALIZATION": "FULL STACK DEVELOPMENT",
+    "Number of students in the 5th semester UG programs": 39
+  },
+  {
+    "School": "School of Engineering",
+    "Department": "COMPUTER SCIENCE & TECHNOLOGY",
+    "PROGRAM": "BACHELOR OF TECHNOLOGY ROBOTICS & AI",
+    "SPECIALIZATION": "NA",
+    "Number of students in the 5th semester UG programs": 18
+  },
+  {
+    "School": "School of Engineering",
+    "Department": "MECHANICAL ENGINEERING",
+    "PROGRAM": "BACHELOR OF TECHNOLOGY MECHANICAL ENGINEERING",
+    "SPECIALIZATION": "SMART MANUFACTURING & AUTOMATION",
+    "Number of students in the 5th semester UG programs": 14,
+    "Department-wise total": 14
+  },
+  {
+    "School": "School of Sciences",
+    "Department": "Physics",
+    "PROGRAM": "NIL",
+    "SPECIALIZATION": "NA",
+    "Number of students in the 5th semester UG programs": 0,
+    "Department-wise total": 0,
+    "School-wise total": 0
+  },
+  {
+    "School": "School of Sciences",
+    "Department": "Chemistry",
+    "PROGRAM": "NIL",
+    "SPECIALIZATION": "NA",
+    "Number of students in the 5th semester UG programs": 0,
+    "Department-wise total": 0,
+    "School-wise total": 0
+  },
+  {
+    "School": "School of Sciences",
+    "Department": "Mathematics",
+    "PROGRAM": "NIL",
+    "SPECIALIZATION": "NA",
+    "Number of students in the 5th semester UG programs": 0,
+    "Department-wise total": 0,
+    "School-wise total": 0
+  },
+  {
+    "School": "School of Education",
+    "Department": "NA",
+    "PROGRAM": "BACHELOR OF ARTS - BACHELOR OF EDUCATION - INTEGRATED",
+    "SPECIALIZATION": "NA",
+    "Number of students in the 5th semester UG programs": 24,
+    "Department-wise total": 30,
+    "School-wise total": 30
+  },
+  {
+    "School": "School of Education",
+    "Department": "NA",
+    "PROGRAM": "BACHELOR OF SCIENCES - BACHELOR OF EDUCATION - INTEGRATED",
+    "SPECIALIZATION": "NA",
+    "Number of students in the 5th semester UG programs": 6
+  },
+  {
+    "School": "School of Management",
+    "Department": "NA",
+    "PROGRAM": "BACHELOR OF BUSINESS ADMINISTRATION",
+    "SPECIALIZATION": "GLOBAL OPERATIONS MANAGEMENT",
+    "Number of students in the 5th semester UG programs": 17,
+    "Department-wise total": 122,
+    "School-wise total": 122
+  },
+  {
+    "School": "School of Management",
+    "Department": "NA",
+    "PROGRAM": "BACHELOR OF BUSINESS ADMINISTRATION",
+    "SPECIALIZATION": "GLOBAL HEALTH CARE MANAGEMENT",
+    "Number of students in the 5th semester UG programs": 3
+  },
+  {
+    "School": "School of Management",
+    "Department": "NA",
+    "PROGRAM": "BACHELOR OF BUSINESS ADMINISTRATION",
+    "SPECIALIZATION": "FINANCE & ACCOUNTS",
+    "Number of students in the 5th semester UG programs": 33
+  },
+  {
+    "School": "School of Management",
+    "Department": "NA",
+    "PROGRAM": "BACHELOR OF BUSINESS ADMINISTRATION",
+    "SPECIALIZATION": "ENTREPRENEURSHIP & FAMILY BUSINESS",
+    "Number of students in the 5th semester UG programs": 37
+  },
+  {
+    "School": "School of Management",
+    "Department": "NA",
+    "PROGRAM": "BACHELOR OF BUSINESS ADMINISTRATION",
+    "SPECIALIZATION": "BUSINESS ANALYTICS",
+    "Number of students in the 5th semester UG programs": 32
+  },
+  {
+    "School": "School of Law",
+    "Department": "NA",
+    "PROGRAM": "BACHELOR OF ARTS - BACHELOR OF LAW - INTEGRATED",
+    "SPECIALIZATION": "NA",
+    "Number of students in the 5th semester UG programs": 60,
+    "Department-wise total": 100,
+    "School-wise total": 100
+  },
+  {
+    "School": "School of Law",
+    "Department": "NA",
+    "PROGRAM": "BACHELOR OF BUSINESS ADMINISTRATION - BACHELOR OF LAW - INTEGRATED",
+    "SPECIALIZATION": "NA",
+    "Number of students in the 5th semester UG programs": 40
+  },
+  {
+    "SPECIALIZATION": "Grand Total",
+    "Number of students in the 5th semester UG programs": 667,
+    "Department-wise total": 667,
+    "School-wise total": 667
+  }
+]

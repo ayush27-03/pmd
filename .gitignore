@@ -1,0 +1,84 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build outputs
+/build
+/out
+/.next
+/.nuxt
+
+# Cache directories
+.cache
+.temp
+.tmp
+*.cache
+
+# Coverage reports
+/coverage
+/.nyc_output
+/jest-coverage
+
+# Debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE specific files
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.history/
+.project
+.settings/
+*.swp
+*.swo
+
+# Optional: Database files
+*.sqlite
+*.db
+
+# Optional: Compiled binary addons
+/build/Release
+*.node
+
+src/tree.txt
+src/data/sampleProjects.js
+src/pages/html.html
+src/pages/Login.jsx
+src/AdminPanel.jsx
+src/server/node_modules
+src/models/** */.js

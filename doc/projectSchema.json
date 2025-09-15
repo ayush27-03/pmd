@@ -1,0 +1,28 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "title",
+      "primaryFacultyMentorId"
+    ],
+    "properties": {
+      "title": { "bsonType": "string" },
+      "description": { "bsonType": "string" },
+      "primaryFacultyMentorId": { "bsonType": "objectId" },
+      "designation": { "bsonType": "string" },
+      "facultyCoMentorsMRU": { "bsonType": "string" }, 
+      "industryMentors": { "bsonType": "string" },     
+      "alumniMentors": { "bsonType": "string" },       
+      "externalFacultyMentors": { "bsonType": "string" },
+      "disciplinesInvolved": { "bsonType": "string" }, 
+      "expectedOutcomes": { "bsonType": "string" },    
+      "sdgImpact": { "bsonType": "string" },          
+      "impactStatement": { "bsonType": "string" },
+      "status": { "enum": ["Open", "In Progress", "Completed", "Archived"] },
+      "appliedStudentIds": {
+        "bsonType": "array",
+        "items": { "bsonType": "objectId" }
+      }
+    }
+  }
+}

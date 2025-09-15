@@ -1,0 +1,2006 @@
+[
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "\"Develop a low-cost, chemically-based water purification system that can be used in remote or rural areas.”",
+    "description": "The project will Design and Develop a low-cost, portable water purification system using chemical and physical filtration methods that is suitable for use in rural India. Evaluate its efficiency against microbial and chemical contaminants, assess environmental impact, and develop an implementation strategy considering local socio-economic constraints.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "Chemistry, Engineering, Management, Education",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d43"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Synthesis of Bio polymer based superabsorbent polymers",
+    "description": "The project  will create a state-of-art infrastructure to develop novel multifunctional superabsorbent hydrogels beads using biopolymers and its derivatives. \r\nThese multifunctional hydrogel bead not only act as soil condition but also act as nutrient supplier for plants.\r\nIn addition to that, these beads will also act as adsorbent of heavy metal ions which generally contaminate the soil.",
+    "facultyCoMentorsMRU": "Dr. J P Sharma",
+    "industryMentors": "Dr. Ravindre Kumar IOC Faridabad",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "Chemistry, ME",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG 2: Zero Hunger \r\nPromotes sustainable agriculture by increasing crop yield and soil fertility., Reduces dependency on chemical fertilizers through controlled nutrient release. Supports smallholder farmers with cost-effective, eco-friendly alternatives.\r\nSDG 6: Clean Water and Sanitation\r\nImproves water retention in arid and semi-arid regions. Reduces irrigation frequency, conserving freshwater resources. Minimizes leaching and runoff of nutrients into groundwater, thus protecting water quality.",
+    "impactStatement": "Development of Eco-Friendly Hydrogel Beads\r\nSuccessfully synthesized biodegradable hydrogel beads using natural biopolymers (e.g., chitosan, alginate, starch, cellulose derivatives).\r\nAchieved high water absorbency and retention capacity (multiple times their dry weight).\r\nIntegrated slow-release nutrient systems (e.g., urea, phosphate, potassium salts) into the hydrogel matrix.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d44"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Biobased correosion inhibitors",
+    "description": "The project will explore the development of new efficient sustainable biobased inhibitors for the metals where pickiling process is required",
+    "facultyCoMentorsMRU": "Dr. V.V. Pathak",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "Chemistry/ME",
+    "expectedOutcomes": "Resaerch Paper",
+    "sdgImpact": "Biobased corrosion inhibitors support SDG4, SDG 9 (Industry, Innovation, Infrastructure), and SDG 13 (Climate Action) by reducing environmental impact, promoting green chemistry, and enhancing sustainability.",
+    "impactStatement": "Biobased corrosion inhibitors offer eco-friendly alternatives to toxic conventional inhibitors, reducing environmental and health risks. Their adoption can enhance industrial sustainability, lower maintenance costs, and extend equipment life. Research in this area contributes to green chemistry, advancing scientific knowledge and promoting innovation in corrosion prevention across various industries.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d45"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Development of a Fungal-Based Biofilter for Industrial Wastewater Treatment",
+    "description": "To design and develop a sustainable fungal-based biofilter for the effective removal of pollutants from industrial wastewater, integrating biological treatment with potential for scalable and eco-friendly application",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "Chemistry/Electronics/ Management",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d46"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Interactive e-Content Modules on Inorganic Chemistry Experiments for Virtual Labs",
+    "description": "Designing and scripting standard synthetic experiments, Instructional design and learning outcome mapping and developing virtual lab software (HTML5/Unity/React/JavaScript).",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "Chemistry/CST/Eductation",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d48"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Modulating Soil Microenvironment and Amino Acid Availability  to Enhance Plant Productivity",
+    "description": "It allows for a more thorough, innovative, and impactful investigation into the potential of acrylic acid amendment for improving soil health and plant growth, ultimately contributing to more sustainable agricultural practices.",
+    "facultyCoMentorsMRU": "Dr.Shilpa Sharma",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "RESEARCH PAPER",
+    "sdgImpact": "SDG1, SDG2 & SDG15",
+    "impactStatement": "Modulating the soil microenvironment and amino acid availability to enhance plant productivity holds profound societal, industrial, and intellectual ramifications, directly advancing several Sustainable Development Goals (SDG's). Societally, this approach is a cornerstone for SDG 2 (Zero Hunger) and SDG 1 (No Poverty) by significantly boosting crop yields and nutritional content, thereby improving food security and economic stability, especially for vulnerable smallholder farmers.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d49"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Development of a chemical sensor/ Electrode",
+    "description": "Development of chemical sensors integrates chemistry, materials science, electronics, and data science for real-time, selective, and cost-effective analyte detection",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "NA",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "ECE",
+    "expectedOutcomes": "",
+    "sdgImpact": "SDG9",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d4a"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Development of Biolubricant from algal biomass cultivated in municipal wastewater",
+    "description": "Following interdisciplinary aspects are involved in the project: (1) Co invetigator from biotechnology will be involved  for growth optimization and exraction studies. (2) Co- Investigator from chemistry will be involved for  desigining efficient pathway for conversion of algal extract in to biolubricant (3) Co Investigator from Mechanical Engineering will be involved to study the effuucacy of biolubricant in engineering applications.",
+    "facultyCoMentorsMRU": "Dr. Pooja Parmar",
+    "industryMentors": "Dr. M.K. Pandey , Joint Director, DRDO Hqr, New Delhi",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "SOS . SOE and MRCPS",
+    "expectedOutcomes": "Research Paper and Patent",
+    "sdgImpact": "SDG 6 AND SDG 7",
+    "impactStatement": "Algae-based biolubricants have the potential to significantly impact both society and industry by offering a sustainable and eco-friendly alternative to conventional petroleum-based lubricants. Derived from renewable algal biomass, these biolubricants are biodegradable, non-toxic, and have a lower environmental footprint, thereby reducing pollution and contributing to cleaner air, water, and soil. For society, this means improved public health and a reduced risk of harmful chemical exposure, particularly in agricultural and urban settings where lubricant runoff is common. In the industrial sector, algae-based biolubricants can enhance machinery performance through superior lubricity, thermal stability, and longer service life, leading to reduced maintenance costs and energy consumption. Additionally, the cultivation and processing of algae for lubricant production can create green jobs and promote rural development, aligning with circular economy principles. As industries move toward decarbonization and sustainable practices, algae-based biolubricants present a promising solution that bridges environmental responsibility with economic growth.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d4c"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Smart Vertical farming",
+    "description": "An indoor, multi-layered (03) agricultural system that utilizes technology to optimize plant growth conditions, enabling year-round, high-yield food production in controlled environments.",
+    "facultyCoMentorsMRU": "Pool is open",
+    "industryMentors": "Looking for",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "1. Ms Bhawana, IIT Gawhati, \r\n2. Dr. Nitesh Kumar Chourasia, Asst Prof, \r\nDepartment of Physics, School of Energy Technology, \r\nPandit Deendayal Energy University, Gandhinagar\r\n3. Dr. Nitesh Singh, Asst Prof \r\nDepartment of Plant Protection, Faculty of Agricultural Sciences, \r\nSGT University, Gurugram",
+    "disciplinesInvolved": "CSE, Agriculture, IoT, Mechanical",
+    "expectedOutcomes": "Research Paper, Patent, Prototype, Product",
+    "sdgImpact": "SDG 2 and SDG 12",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d4d"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Developing an activeness measure of the hydrogen atom.",
+    "description": "Activeness measures are holistic measures from computer science which can be applied to any system to find the degree of readiness of that system to respond to external stimuli.\r\nDisciplines involved: Computer Science for Simulation, Physics for the Hydrogen atom, Chemistry for the Impact on Climate",
+    "facultyCoMentorsMRU": "Dr. Dinesh Kumar Sharma, Physics\r\nDr. Vinayak Vandan Pathak, Chemistry",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. T V Prasad, Godavari Global University, Rajahmundry, Andhra Pradesh",
+    "disciplinesInvolved": "CST, Physics, Chemistry",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG 13",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d4e"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "An AI powered Chatbot for Legal information retrieval",
+    "description": "This problem requires an interdisciplinary solution that combines expertise from legal studies, to ensure the accuracy and reliability of legal content, and computer science, specifically in natural language processing (NLP) and machine learning, to enable the chatbot to comprehend and generate human-like legal responses.\r\nDisciplines involved: Computer Science & Engineering , AI & Natural language processing and Law",
+    "facultyCoMentorsMRU": "Dr. Tarundeep Kaur",
+    "industryMentors": "Dr. Ritesh Srivastav,\r\nNLP Engineer,\r\nOracle India Pvt Lts",
+    "alumniMentors": "Mr. Sarthak Rastogi,\r\nAI Engineer\r\nTime and Space Labs",
+    "externalFacultyMentors": "Dr. Priti Bansal , Assistant Professor, NSUT",
+    "disciplinesInvolved": "CST, Law",
+    "expectedOutcomes": "Prototype",
+    "sdgImpact": "16",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d4f"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI based Smart IoT Powered Food Freshness Monitoring and Waste Reduction System.",
+    "description": "The AI based and IoT Powered Smart Food Freshness Monitoring and Waste Reduction System is an IoT-enabled Smart monitoring system that can be embedded in refrigerator that employs sensors, a camera, and a Raspberry Pi integrated system to with deep learning algorithms to monitor and predict the freshness of food items (fresh or rotten). The system will provide alerts and status updates on a built-in fridge display and thus enabling users to reduce food spoilage.",
+    "facultyCoMentorsMRU": "Nitu Chauhan",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Ms. Mrinal Manjri",
+    "disciplinesInvolved": "Electronics and TeleCommunications",
+    "expectedOutcomes": "Reserach Paper, Prototype,Patent,innovation",
+    "sdgImpact": "SDG 3 (Good Health and Well-Being) , SDG 9 (Industry, Innovation and Infrastructure)",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d50"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI based Milk Bottle for Kids",
+    "description": "The AI-enabled milk bottle for children integrates advanced sensors, connectivity, and machine learning to revolutionize infant feeding routines. Equipped with embedded sensors, the bottle continuously monitors temperature, volume intake, and feeding duration, transmitting real-time data to a companion mobile app. The AI algorithms analyze feeding patterns—such as feed frequency, duration, and volume—to detect irregularities and predict optimal feeding schedules.",
+    "facultyCoMentorsMRU": "Dr. J.P. Sharma",
+    "industryMentors": "Mr. Yogesh Chauhan, HCL Technologies",
+    "alumniMentors": "Mr. Suyash",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST, ME, ECE",
+    "expectedOutcomes": "Patent, Product, Startup",
+    "sdgImpact": "SDG 3 (Good Health and Well-Being) , SDG 9 (Industry, Innovation and Infrastructure)",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d52"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Clinically Interpretable System for Early Prediction and Risk Stratification of Liver Cirrhosis",
+    "description": "Despite rapid advances in artificial intelligence, healthcare systems in many regions still struggle with early disease detection, especially in remote or underserved communities. Existing AI models often fail to generalize across populations due to lack of diverse data, poor interoperability between health systems, and limited consideration of ethical concerns like bias, data privacy, and informed consent. Aim is to develop a multimodal AI system for non-invasive, early prediction of liver cirrhosis which ensures clinical interpretability and ease of integration into hospital workflows.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr Sumita Mukheerji, Dr Pinki Sagar",
+    "disciplinesInvolved": "CST",
+    "expectedOutcomes": "Research Paper, Patent",
+    "sdgImpact": "SDG-3",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d53"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Analyzing Trends and Triggers in Autoimmune Diseases: A Data-Driven Approach",
+    "description": "Autoimmune diseases, characterized by the immune system's misguided attack on healthy tissues, have become increasingly prevalent across global populations. This project aims to analyze the trends, triggers, and contributing factors of autoimmune disorders through a data-driven lens. By compiling and examining clinical, genetic, environmental, and lifestyle datasets, the study seeks to identify common patterns and correlations that contribute to the onset and progression of conditions such as rheumatoid arthritis, lupus, and multiple sclerosis. Statistical tools and machine learning techniques are employed to detect emerging trends, regional variations, and potential risk factors. The findings highlight the multifactorial nature of autoimmune diseases, emphasizing the interplay between genetic predisposition and external triggers like infections, stress, and environmental pollutants. This research contributes to a deeper understanding of autoimmune pathogenesis and paves the way for early detection strategies and personalized treatment approaches.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d54"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Detection & Prognosis of Cardio Vascular Disease",
+    "description": "The Cardiovascular Disease is a combination of various heart disease and is hence a silent killer across the globe. It's early diagnosis and detection is a challenge and is highly dependable on the expertise and clinical & scientific tests that are available.But these methods are very time consuming,costly & lengthy.The use of AI,IoT & Sensors can be helpful to know its actual cause so that its prognosis can be made.The study indicates scope of its detection on the basis of the these techniques and will be helpful to find the actual detection in its early stage.",
+    "facultyCoMentorsMRU": "Dr. Awab Mohd",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Prof(Dr.) Neeta Verma",
+    "disciplinesInvolved": "ECE/SoE",
+    "expectedOutcomes": "1. Research Paper\r\n2.Prototype\r\n3. Patent",
+    "sdgImpact": "The Project aims to deliver a feasible solution for the early prediction of CVD to safeguard the life of affected person.\r\n(SDG-3)",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d55"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "An Interdisciplinary Framework for Cybersecurity: Integrating Technical Architectures, Legal Protocols, and Human-Centric Risk Mitigation",
+    "description": "As cyber threats grow in complexity, traditional technical solutions are no longer sufficient to protect sensitive data and critical infrastructure. The increasing integration of technology into everyday life has exposed vulnerabilities not only in systems but also in human behavior, legal frameworks, and organizational structures. There is a pressing need for an interdisciplinary approach that bridges gaps between technical innovation, legal regulation, human behavior, and ethical responsibility to effectively address and mitigate cybersecurity threats.",
+    "facultyCoMentorsMRU": "Dr.J.P.Sharma",
+    "industryMentors": "Mr.Karan Aditya Ghoshal,   KPMG ,CANADA",
+    "alumniMentors": "Mr.Samarth Khandelwal",
+    "externalFacultyMentors": "Mr.Sanjay Kumar,Galgotia University",
+    "disciplinesInvolved": "School of Law,Education,Management,Sciences",
+    "expectedOutcomes": "Research paper\r\nCopyright\r\nPrototype\r\nPatent\r\nProduct\r\nStartup\r\nInnovation\r\nNewspaper Article\r\nVlog/Blog",
+    "sdgImpact": "SDG 9: Industry, Innovation, and Infrastructure.  SDG 16: Peace, Justice, and Strong Institutions   SDG 4: Quality Education",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d56"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Analysis on Forecasting Earthquakes using Predictive Machine Learning Algorithms",
+    "description": "",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d58"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Sustainable Datacenters: A systematic approach for making energy efficient Datacenters",
+    "description": "Problem: A large hyperscale data center can emit 100,000 to 200,000 metric tons of CO₂ equivalent per year, depending on energy source and efficiency.\r\n\r\nSolution: Making the datacenters sustainable using energy aware techniques like renewable source of energy, Power aware techniques or Thermal aware techniques. Lots of work required for Energy efficent techniques at software level, Hardware level & Network level. (Relevent for: Electronics, Mechanical, Electrical)",
+    "facultyCoMentorsMRU": "Dr. Sanjay Singh",
+    "industryMentors": "Mr Gaurav Saini",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Gagangeet Singh Aujala",
+    "disciplinesInvolved": "Mechanical, Electrical",
+    "expectedOutcomes": "Prototype/Research paper",
+    "sdgImpact": "SDG9, SDG13",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d59"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "IoT-Based Accident Detection and Alert System",
+    "description": "Equipped with GPS and accelerometer sensors, this system detects vehicle accidents and instantly sends location-based alerts to emergency services and family members.",
+    "facultyCoMentorsMRU": "Dr. Kavita Singh",
+    "industryMentors": "Dr. Ekta Bhayana",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Parikshit Vasisht",
+    "disciplinesInvolved": "CSE, ECE, ME, R&AI",
+    "expectedOutcomes": "Prototype/Research paper/Patent",
+    "sdgImpact": "SDG 9, SDG 11",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d5a"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Smart Health Monitoring System using IoT and Machine Learning",
+    "description": "This project involves developing a wearable health monitoring device that collects real-time physiological data (such as heart rate, temperature, SpO2, and ECG) using IoT sensors. The data is transmitted to a cloud platform for storage and analysis. Using machine learning algorithms, the system can detect anomalies and predict potential health issues like arrhythmias or fever spikes. The system also includes a mobile/web interface for both patients and doctors, offering alerts and health insights.",
+    "facultyCoMentorsMRU": "Dr. Nitika",
+    "industryMentors": "Mr. Mayank",
+    "alumniMentors": "Somesh Verma",
+    "externalFacultyMentors": "Khushbu Gupta",
+    "disciplinesInvolved": "Mechanical, Electrical",
+    "expectedOutcomes": "1. Research Paper\r\n2.Prototype\r\n3. Patent",
+    "sdgImpact": "A smart wearable device enables real-time health monitoring and early detection of medical anomalies using IoT and machine learning. It improves access to preventive healthcare, supporting SDG 3 (Good Health and Well-Being) and SDG 9 (Industry, Innovation and Infrastructure).",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d5b"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Approach to E-Waste Management: Sustainable Solutions for a Digital World",
+    "description": "E-waste is the fastest-growing waste stream globally, yet current management remains fragmented due to gaps in technology, awareness, and policy. An interdisciplinary approach is needed, involving CSE, ECE, ME, Robotics & AI, and Sciences to develop smart, sustainable solutions. This project aims to integrate digital tools, automation, and environmental insights for efficient and responsible e-waste management.",
+    "facultyCoMentorsMRU": "Ms. Tamanna Sachdeva",
+    "industryMentors": "Mr. Rohit Chopra",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Rashmi Popli, Associate professor, J. C. Bose University of Science & Technology, YMCA",
+    "disciplinesInvolved": "CSE, ECE, ME, R& AI, Sciences",
+    "expectedOutcomes": "Research Paper, Patent",
+    "sdgImpact": "SDG 11 – Sustainable Cities and Communities, SDG 12 – Responsible Consumption and Production",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d5c"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI-Powered Performance Analysis and Training Optimization for Sub-Junior Badminton Athletes",
+    "description": "This project brings together ideas from different fields like sports science, artificial intelligence (AI), biomechanics, and data analysis. It aims to make training for sub-junior badminton players smarter and more effective. Using AI, we can check players’ movements, find mistakes, and give them quick, personalized feedback. Biomechanics helps us understand how their bodies move, and data analysis shows patterns in their performance. Psychology also plays a role by helping to keep young players motivated and focused. By combining all these areas, the project creates a modern training system that helps young athletes improve their skills faster, avoid injuries, and become better players overall.",
+    "facultyCoMentorsMRU": "Dr.Sachin Lakra",
+    "industryMentors": "Dr.D.Devasena",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr.D.Devasena, Assosicate Professor SREC-Coimbatore",
+    "disciplinesInvolved": "ECE,CSE,R&AI,Education",
+    "expectedOutcomes": "patent",
+    "sdgImpact": "SDG 3: Good Health and Well-Being\r\nBy optimizing training and reducing the risk of injury through biomechanics and AI-driven monitoring, the project supports physical health and mental well-being among young athletes.\r\n\r\nSDG 17: Partnerships for the Goals\r\nCollaborations between technologists, coaches, sports scientists, and psychologists demonstrate interdisciplinary partnerships aimed at sustainable youth development.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d5d"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "EconoHealth: Visual Correlation Between Socioeconomic Status and Healthcare Access\"",
+    "description": "Builds an interactive map/dashboard to show how income levels, insurance access, and location affect healthcare availability and outcomes. Aids NGOs and policymakers\r\n🌐 Core Features\r\n📊 Interactive Dashboard\r\nReal-time filters to compare:\r\nIncome brackets (low/middle/high)\r\nInsurance status (insured vs uninsured)\r\nUrban vs rural regions\r\nAge and gender demographics\r\nHealthcare accessibility indicators:\r\nNumber of hospitals/clinics per 1000 people\r\nAverage distance to nearest healthcare facility\r\nEmergency response time (avg)\r\nPreventive care access (vaccination, screening rates)\r\nMortality and morbidity rates\r\n🗺️ Geo-Mapped Insights\r\nHeatmaps showing:\r\nHealthcare deserts\r\nRegional disparities in access to primary/secondary/tertiary care\r\nDistribution of chronic diseases (e.g. diabetes, hypertension)\r\nToggle between districts/states/countries for comparison\r\n📈 Time Series Analysis\r\nTracks healthcare access and outcomes over time (pre/post policy interventions, pandemics, etc.)\r\nIdentify trends and patterns in public health improvements or declines\r\n📌 Predictive Modeling (Optional Advanced Feature)\r\nML models to forecast:\r\nAreas at risk of becoming healthcare deserts\r\nImpacts of income shocks on healthcare usage\r\nOptimal placement of new health facilities for maximum coverage",
+    "facultyCoMentorsMRU": "Dr.Monika Garg,Dr.Narender,Dr.Animesh",
+    "industryMentors": "Ms.Roshi Saxena",
+    "alumniMentors": "Mr.Rahul Roy",
+    "externalFacultyMentors": "Dr.Dharamender Kumar Singh,Associate Professor,Sharda University",
+    "disciplinesInvolved": "CST,MGT",
+    "expectedOutcomes": "1. Research Paper\r\n2.Prototype\r\n3. Patent",
+    "sdgImpact": "SDG 9, SDG 11",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d5e"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI/ML-Driven Dynamic Agro-Optimization",
+    "description": "AI/ML-Driven Dynamic Agro-Optimization is a precision farming framework designed to boost the yield significantly. It leverages advanced machine learning techniques for real-time soil intelligence, optimized fertilizer application, and accurate weed detection. This integrated approach enables data-driven decision-making, enhancing productivity and sustainability in agriculture.",
+    "facultyCoMentorsMRU": "Dr. Neelu",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG9",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d5f"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI enabled voice assistant for Farmers",
+    "description": "An AI-enabled voice assistant for farmers, like KissanGPT or Farmer.CHAT, offers real-time agricultural advice, weather updates, and market price information in multiple languages, empowering farmers with knowledge and facilitating informed decision-making.",
+    "facultyCoMentorsMRU": "Dr. Mrinal Pandey",
+    "industryMentors": "Mr. Ravi Kant, Xebia",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CSE/ECE",
+    "expectedOutcomes": "Prototype",
+    "sdgImpact": "SDG9",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d60"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Automated Detection and Classification of Diabetic Retinopathy using Advanced Computational Techniques",
+    "description": "1. Helps in developing imaging devices and integrating automated systems with existing medical hardware.\r\n2. Involves the application of engineering principles to design and implement diagnostic tools compatible with clinical systems",
+    "facultyCoMentorsMRU": "Dr. Urmila Pilania",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Girija, FET, MRIIRS",
+    "disciplinesInvolved": "CST",
+    "expectedOutcomes": "Paper and patent and App",
+    "sdgImpact": "SDG 3: Good Health and Well-being\r\nSDG 9: Industry, Innovation, and Infrastructure",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d61"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Implementing Continuous Integration and Continuous Deployment (CI/CD) Pipelines to Enhance Software Delivery Efficiency",
+    "description": "​Implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines involves integrating various disciplines to enhance software delivery efficiency. Developers create modular codebases for seamless integration, while DevOps professionals automate build, test, and deployment processes to foster continuous improvement. Quality Assurance specialists design automated testing strategies to validate code quality, and System Administrators manage deployment environments using tools like Docker and Kubernetes to ensure consistency. Project Managers coordinate teams and align CI/CD initiatives with business objectives to ensure successful implementation. This interdisciplinary collaboration streamlines development, reduces manual intervention, and accelerates the delivery of high-quality software products.",
+    "facultyCoMentorsMRU": "Dr.Gunjan Chandwani",
+    "industryMentors": "Ms.Roshi Saxena",
+    "alumniMentors": "Mr.Shubham solanki",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CSE/ECE/MBA",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "This project contributes to SDG 9 (Industry, Innovation, and Infrastructure) by promoting automation and innovation in software delivery. It also supports SDG 8 (Decent Work and Economic Growth) by enhancing efficiency and reducing manual effort in development workflows.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d62"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Moved to R&AI sheet",
+    "description": "",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d63"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Automate hospital administrative tasks",
+    "description": "To develop a modular system that automates key non-clinical workflows in hospitals — reducing manual workload, improving efficiency, and enhancing the patient experience.",
+    "facultyCoMentorsMRU": "Dr. Gunjan",
+    "industryMentors": "Mr. Kapil Gupta\r\nAccenture, Gurgaon",
+    "alumniMentors": "Mr. Sannskar Gupta\r\nCoforge",
+    "externalFacultyMentors": "Dr. Animesh",
+    "disciplinesInvolved": "CSE, Mgmt.",
+    "expectedOutcomes": "Research Paper/ Prototype",
+    "sdgImpact": "SDG 3",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d64"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "IoT driven Innovations for Solid Waste Management in Smart Cities.",
+    "description": "The ever-growing population density in cities leads to a significant rise in waste generation. Insufficient infrastructure available for collection, transportation, treatment and disposal of waste, lack of planning, financial resources, technical deficiencies, lack of legislation and their implementation on real stage, and non-involvement of the masses are the main factors for the prevailing adverse situation. This project includes an elaborate study of the current waste management practices being followed across the globe explaining their design specifications and applicability features. Also, this study explores the incorporation of Internet of Things (IoT) technologies with waste management for the development of smart cities.",
+    "facultyCoMentorsMRU": "Ms. Jyoti Nanwal",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "CST",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d65"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Effect of Different nano materials on solar cell efficiency",
+    "description": "Improving the efficiency of solar cells is a major challenge in the renewable energy sector. Organic and thin-film solar cells offer sustainable alternatives to traditional silicon-based cells, but their performance is often limited by poor charge transport and recombination losses. The integration of nanomaterials (e.g., graphene, TiO₂ nanoparticles, ZnO nanorods, quantum dots) into various layers of solar cells has emerged as a promising solution to enhance optical absorption, charge separation, and transport.\r\n\r\nThis study proposes to simulate the incorporation of different nanomaterials into solar cell architectures using SCAPS-1D, a numerical modeling tool for analyzing the electrical performance of semiconductor devices. By systematically analyzing the effect of nanomaterials on key parameters such as open-circuit voltage (Voc), short-circuit current (Jsc), fill factor (FF), and power conversion efficiency (PCE), this project aims to optimize material choices for enhanced solar performance.",
+    "facultyCoMentorsMRU": "Dr. Shiv Kumar Dixit, Dr. Anshuman",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Monika Tomar, Univ. of Delhi",
+    "disciplinesInvolved": "CST, Physics",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG 7",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d66"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "To develop an AI-powered chatbot that complies with healthcare liability regulations and offers users preliminary medical advice and triage guidance. Ensure that the chatbot operates within legal boundaries by explicitly stating that it is not a substitute for professional medical consultation.",
+    "description": "This issue integrates the legal regulations regarding healthcare advice, liability, and user protection (from Law) with the technical development of an AI chatbot (from CSE).  Although AI facilitates real-time, accessible assistance for users, it must be meticulously designed to prevent legal liabilities, including unauthorized medical practice, misinformation liability, and noncompliance with informed consent standards.  The system is legally compliant and functionally beneficial as a result of the collaboration between technologists and legal experts.",
+    "facultyCoMentorsMRU": "Dr. Sujata Nayak",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST, Law",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG9",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d67"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI-Powered Student Assistance Chatbot for Universities",
+    "description": "Design and implement an AI-powered chatbot specifically tailored to assist students by providing accurate and timely responses to queries related to university rules and regulations. The chatbot will act as a virtual assistant, accessible 24/7, helping students understand and navigate important guidelines on academic policies, examination rules, attendance requirements, code of conduct, disciplinary procedures, hostel regulations, and other institutional policies.",
+    "facultyCoMentorsMRU": "Dr. Ranjna Jain",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Girija Srikanth",
+    "disciplinesInvolved": "CST, SoE",
+    "expectedOutcomes": "Protoype",
+    "sdgImpact": "SDG9",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d68"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Sustainable Datacenters: A systematic approach for making energy efficient Datacenters",
+    "description": "Problem: A large hyperscale data center can emit 100,000 to 200,000 metric tons of CO₂ equivalent per year, depending on energy source and efficiency.\r\n\r\nSolution: Making the datacenters sustainable using energy aware techniques like renewable source of energy, Power aware techniques or Thermal aware techniques. Lots of work required for Energy efficent techniques at software level, Hardware level & Network level. (Relevent for: Electronics, Mechanical, Electrical)",
+    "facultyCoMentorsMRU": "Anu Priya Sharma",
+    "industryMentors": "Mr Gaurav Saini",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Gagangeet Singh Aujala",
+    "disciplinesInvolved": "Mechanical, Electrical",
+    "expectedOutcomes": "Prototype/Research paper",
+    "sdgImpact": "SDG9, SDG13",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d69"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI-Powered Waste Management System",
+    "description": "Problem: Inefficient and Manual Waste Management Systems\r\n\r\nTraditional waste management practices often suffer from inefficiencies such as irregular garbage collection, overflowing bins, lack of segregation at the source, and insufficient data for decision-making. These problems lead to unhygienic environments, increased operational costs, and missed sustainability goals. Manual monitoring of waste levels, routes, and recycling efforts is time-consuming, error-prone, and lacks real-time responsiveness.",
+    "facultyCoMentorsMRU": "Dr. Bhawna Singla",
+    "industryMentors": "Dr. Praveen Varshney",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CSE & ECE",
+    "expectedOutcomes": "Paper and patent",
+    "sdgImpact": "SDG 11 – Sustainable Cities and Communities\r\nSDG 12 – Responsible Consumption and Production\r\nSDG 13 – Climate Action\r\nSDG 9 – Industry, Innovation, and Infrastructure\r\nSDG 3 – Good Health and Well-being",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d6a"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Secure Smart Home System for Blind People",
+    "description": "Create a smart home automation system tailored for visually impaired users, integrating voice-based control, AI-enabled environment feedback, and secure access features to enhance safety, independence, and ease of use.",
+    "facultyCoMentorsMRU": "Ms. Esha Khanna",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CSE, R& AI, ECE",
+    "expectedOutcomes": "Paper and patent",
+    "sdgImpact": "SDG 3: Good Health and Well-being\r\nSDG 9: Industry, Innovation, and Infrastructure \r\nSDG 10: Reduced Inequalities \r\nSDG 11: Sustainable Cities and Communities",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d6b"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Automated Detection and Classification of Diabetic Retinopathy using Advanced Computational Techniques",
+    "description": "1. Helps in developing imaging devices and integrating automated systems with existing medical hardware.\r\n2. Involves the application of engineering principles to design and implement diagnostic tools compatible with clinical systems",
+    "facultyCoMentorsMRU": "Dr. Manoj Kumar",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CSE",
+    "expectedOutcomes": "Paper and patent and App",
+    "sdgImpact": "SDG 3: Good Health and Well-being\r\nSDG 9: Industry, Innovation, and Infrastructure",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d6c"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI ENABLED INVIGILATION SYSTEM",
+    "description": "BUILD AN REAL TIME DETECTION WHERE CHEATING ATTEMPTS ARE IMMEDIATELY FLAGGED ,BASED ON FACE RECOGNITION ATTENDANCE MARKING AS PER SEATING PLAN,SIX CLEARLY VISIBLE ALERTS AND VOICE ALERTS TO THE CANDIDATE.",
+    "facultyCoMentorsMRU": "Dr. Pushpa",
+    "industryMentors": "Mr Ravikant from xebia",
+    "alumniMentors": "Mr Vishal Vishwakarma(SIbros)",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CSE,ECE",
+    "expectedOutcomes": "Patent and App",
+    "sdgImpact": "SDG9:Industry ,Innovation and infrastructure",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d6e"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI enabled Image caption generator",
+    "description": "Automatically generate meaningful captions that combines computer vision and natural language processing.\r\nA hardware device (like smart glasses or a wearable camera) can be used to capture scenes and read out \r\nreal-time image captions.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d6f"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Automatically generating meaningful captions for images is a challenging task that combines computer vision and natural language processing.",
+    "description": "Urban waste management remains a persistent challenge due to inefficiencies in waste categorization, collection logistics, and environmental impact monitoring. This project seeks to address this issue by designing an AI-driven smart waste management system that integrates computer vision, IoT technologies, environmental sustainability principles, and economic feasibility models. This is inherently an interdisciplinary problem, requiring collaboration across:\r\n\r\nComputer Science: to develop machine learning models for real-time waste classification and predictive analytics for collection route optimization.\r\nElectronics/IoT: to design and deploy sensor networks for tracking bin fill levels and environmental conditions (e.g., temperature, odor, gas emissions).\r\nEnvironmental Science: to guide the system design towards environmentally sustainable practices and compliance with urban waste disposal regulations.\r\nBusiness/Management: to analyze operational viability, cost-benefit structures, and propose models for municipal partnerships and smart city integration.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d70"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI assisted skin disease detection and classification app",
+    "description": "This system will provide real time assistance to end user to detect and classify skin diseases. The app can be web based or mobile based. This will help in early diagnosis and prognosis of skin diseases including skin cancer.",
+    "facultyCoMentorsMRU": "Ms Babita Yadav, Assistant Professor, CST",
+    "industryMentors": "Mr Ashvin, ADP (Automatic Data Processing ), The Square, Nagar Rd, opp. CTR Factory, Kargil Vijay Nagar, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr Shilpy Agrawal, Professor, Galgotias University, Greater Noida",
+    "disciplinesInvolved": "CST, Sciences",
+    "expectedOutcomes": "Research Paper, Patent, Prototype",
+    "sdgImpact": "SDG3: Health and well being",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d71"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Developing  AI based system to Support Mental Health",
+    "description": "Develop a system to enhance mental well-being by automatically sensing a user's emotional state (like stress or focus) using non-invasive physiological and behavioral sensors, analyzing this data with machine learning, and providing appropriate feedback or interventions.",
+    "facultyCoMentorsMRU": "Dr KDEEPA",
+    "industryMentors": "Saurabh Lohiya , CEO, Lark Finserve",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr Sachin Gupta ,MAIT DELHI",
+    "disciplinesInvolved": "CST,ECE,Medical Sciences",
+    "expectedOutcomes": "Research Paper, Patent, Prototype",
+    "sdgImpact": "SDG3: Health and well being",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d72"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Industrial Development in Faridabad: Environmental challenges and risks",
+    "description": "Assess the small scale industries in Faridabad and if they are adopting  sustainable practices",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d73"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Self Cleaning Ceiling Fan",
+    "description": "A Smart AC Fan which can clear itself without interuption or requirenment of human interface perdiocally",
+    "facultyCoMentorsMRU": "Mr. Vijay Kumar Gill, Dr. Parneeta Dhaliwal",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CSE, ECE",
+    "expectedOutcomes": "Patent, Prototype",
+    "sdgImpact": "SDG 3, 7, 9 and 12",
+    "impactStatement": "Reducing accident and help woman and  elderly or sepcially challenged person.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d75"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Smart Waste Segregation System Using Computer Vision and Sensors",
+    "description": "Improper waste segregation at the source is a persistent issue in urban waste management. Manual sorting is inefficient and poses health risks to workers. There is a need for an automated system that classifies and separates waste efficiently.",
+    "facultyCoMentorsMRU": "Dr. Niharika Thakur",
+    "industryMentors": "Dr. Anil Kumar Saini , CEERI, Pilani",
+    "alumniMentors": "Ms. Priyanka Mangla, B.tech ECE, (2011-2015) Scientist 'SC', Space Application Centre, ISRO",
+    "externalFacultyMentors": "Ms. Neha Gupta, Bharti Vidyapeeth College of Engineering",
+    "disciplinesInvolved": "ECE, CST",
+    "expectedOutcomes": "Research Papers, Patent, Prototype",
+    "sdgImpact": "SDG 11 – Sustainable Cities and Communities\r\nSDG 12 – Responsible Consumption and Production\r\nSDG 13 – Climate Action",
+    "impactStatement": "1. Societal Impact:\r\n\r\ni. Enhances public health and hygiene by reducing human contact with waste.\r\n\r\nii. Educates communities about waste categorization and promotes eco-conscious behavior.\r\n\r\niii. Empowers municipalities with data-driven insights for better planning and resource allocation.\r\n\r\n2. Industrial Impact:\r\n\r\ni. Offers a scalable solution for smart cities, municipalities, and waste management companies.\r\n\r\nii. Reduces labor costs and operational inefficiencies in waste handling.\r\n\r\niii. Enables real-time monitoring and automation, improving compliance with environmental regulations.\r\n\r\n3. Contribution to New Knowledge:\r\n\r\ni. Demonstrates the integration of computer vision and sensor fusion in environmental applications.\r\n\r\nii. Adds to the field of AI-driven sustainable technologies with a real-world deployment model.\r\n\r\niii. Provides a foundation for future research in automated material recovery, smart recycling, and robotics in waste management.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d76"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Image Processing{enhancemeant,denoising} using Multiscale transform (Matlab,Paython Software )",
+    "description": "Image denoising plays very crucial role in applications which include photography/videography, Security-Surveillance, Medical Image analysis, Astronomy, Aerial photography, Satellite Imagery, and many more. The results of denoising also affect the accuracy of later tasks of image segmentation, object recognition, classification.\r\nIn this project we explore image denoising of different images with different noises using multiscale transform such as wavelet transform, ridgelet transform, curvelet transform and shearlet transform and several thresholding techniques such as hard thresholding, soft thresholding, SUREShrink, VisuShrink and BayesShrink etc. Further, we compare the performance of these methods or transform in terms of PSNR and MSE values and aim to provide better image denoising technique for images.",
+    "facultyCoMentorsMRU": "Dr. Aparna Vyas",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "1. Prof. Joonki Paik\r\nDepartment of Image Science \r\nChung-Ang University\r\n\r\n2. Prof. Gibak Kim\r\nDepartment of Electrical Enginnering\r\nSoongsil University, Seoul, South Korea",
+    "disciplinesInvolved": "Sciences, CST, ECE",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 3, 4, 9, 11, 13",
+    "impactStatement": "The outcome is expected to contribute:\r\n\r\nTo Industry: By improving visual data preprocessing pipelines in domains such as healthcare diagnostics, satellite image interpretation, and security surveillance, leading to more accurate and reliable decision-making.\r\n\r\nTo Society: Through enhanced image quality in daily applications such as mobile photography, video streaming, and medical diagnostics, ultimately improving user experience and diagnostic precision.\r\n\r\nTo New Knowledge: By offering comparative insights into the performance of different multiscale transforms and thresholding methods, the research contributes to the academic understanding and future development of efficient image denoising algorithms.\r\n\r\nIn general, this work promotes innovation in digital imaging and lays the groundwork for robust, noise-resilient image processing systems.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d77"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Real-Time Air Pollution Monitoring and Control System for Urban Environments",
+    "description": "A low-cost sensor network to measure pollutants and provide data-driven control strategies to reduce air pollution. Integration of Environmental Science (air pollutants), Electronics (sensor networks), Electrical Engineering (communication systems), and Urban Planning.",
+    "facultyCoMentorsMRU": "Mr. Vijay Kumar Gill, Dr. Lokesh Bhardwaj",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Ravi shankar",
+    "disciplinesInvolved": "Sciences, ECE, ME",
+    "expectedOutcomes": "Prototype, Research Paper, Patent",
+    "sdgImpact": "SDG 11: Sustainable Cities and Communities",
+    "impactStatement": "Enables better air quality management, improves public health, and supports policy making.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d78"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Smart Vehicle with Alcohol Detection and Accident Alert",
+    "description": "A system that prevents ignition if alcohol is detected and sends live location in case of crash.",
+    "facultyCoMentorsMRU": "Dr. Meenakshi Gupta",
+    "industryMentors": "Dr. Yogita Khanna, Manager, Kohler",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "ECE, CST, ME",
+    "expectedOutcomes": "Research Paper, Patent and Prototype",
+    "sdgImpact": "3 (Health), 11 (Safe Transport)",
+    "impactStatement": "Aids in reducing drunk driving cases and improves emergency response.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d7a"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "moved to R&AI sheet",
+    "description": "",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d7b"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Left",
+    "description": "",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d7c"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Anti Suicidal Fan",
+    "description": "Anti-suicidal fan will measure the weight and slowly fall off to lower height to save life and raise alarm",
+    "facultyCoMentorsMRU": "Mr. Bhanu Pratap Chaudhary, Dr. Lokesh Bhardwaj",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Anand Singh Rajpoot",
+    "disciplinesInvolved": "CST, ECE",
+    "expectedOutcomes": "Patent and Prototype",
+    "sdgImpact": "SDG 3, 9, 11",
+    "impactStatement": "protect life, promote mental well-being, and create safer environments through thoughtful design and innovation",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d7d"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "moved to R&AI sheet",
+    "description": "",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d7e"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Left",
+    "description": "",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d7f"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "MindBand: IOT enabled Wearable and App Ecosystem for Campus Mental Well-Being",
+    "description": "ECE students can work on integration of biometric sensors: Photoplethysmography (PPG) (for Heart Rate Variability), Electrodermal Activity (EDA), Temperature and embedded firmware design for real time monitoring. AI can be implemented by CSE students for analysing the time series data. They can also develop an app for visual insights and interventions. Mechanical students can design a comfortable adjustable, band or clip-on for daily wear which is Sweat-resistant, lightweight and made of skin-safe materials.",
+    "facultyCoMentorsMRU": "Dr Chandni Magoo",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Ms. Mrinal Manjari, Satyug Darshan Institute of Engg. and Technology, Faridabad",
+    "disciplinesInvolved": "ECE, CST, ME",
+    "expectedOutcomes": "Research Paper, Patent, Prototype",
+    "sdgImpact": "SDG 3 (Good Health and Well-Being) , SDG 4 (Quality Education) and SDG 9 (Industry, Innovation and Infrastructure)",
+    "impactStatement": "Supports mental health awareness in academic institutions with tech-based interventions\r\n\r\nEncourages early detection of stress and burnout in students, leading to timely help",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d80"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Smart Navigation Stick with Object Identification and Scene Narration for Visually Impaired Person",
+    "description": "Designed to address the specific challenges faced by visually impaired individuals while enhancing their independence and safety. ECE students will design the hardware having different kind of sensors and CSE students can embed smartness in the stick with AI/ML.",
+    "facultyCoMentorsMRU": "Dr. Piyush Charan",
+    "industryMentors": "1. Anurag Gupta, Director- STEMROBO Technologies.  2. Gajendra Pratap Singh, Director- Sysro Infotech.",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "ECE, CST",
+    "expectedOutcomes": "Prototype, Patent",
+    "sdgImpact": "SDG 3 (Good Health and Well-Being) and SDG 9 (Industry, Innovation and Infrastructure)",
+    "impactStatement": "A significant advancement in assistive technology for the visually impaired person. By integrating sensors, real-time data processing, and connectivity features, this smart device enhances mobility and safety for users.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d81"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "EduMinds: A Multidisciplinary Research Inquiry into Ethical, Technological, and Managerial Solutions for Promoting Student Well-being in Schools (Ages 10–14)",
+    "description": "While educational interventions exist, there is an urgent need to design holistic, sustainable, and ethical solutions that integrate mental well-being practices into the fabric of everyday school life. This project, EduMinds, aims to address this gap through an interdisciplinary collaboration involving Education, Psychology, Computer Science Engineering, Law, and Management.",
+    "facultyCoMentorsMRU": "Dr Tina Hasija",
+    "industryMentors": "Ms Reshma Bhown",
+    "alumniMentors": "Ms Avishi",
+    "externalFacultyMentors": "Ms Reshma Bhown",
+    "disciplinesInvolved": "Education, CST, Law, Management",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG 3",
+    "impactStatement": "Welfare of adolescents",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d83"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Designing an App/Portal to Monitor and Promote Electricity Saving on Campus\"",
+    "description": "This project integrates Computer Science/IT, Electrical Engineering, and Environmental Science. IT students will develop the app or portal for real-time electricity monitoring. Electrical Engineering students will analyze power usage, recommend technical solutions, and support sensor integration. Environmental Science students will assess energy impact, promote sustainability practices, and align the project with climate goals like SDG 7 and SDG 13",
+    "facultyCoMentorsMRU": "Dr Manpreet Kaur",
+    "industryMentors": "Dr. Udaipratap",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Deepa Bura, CSE, MRIIRS",
+    "disciplinesInvolved": "CST, ECE, Chemistry",
+    "expectedOutcomes": "patent Research paper , Portal",
+    "sdgImpact": "SDG 7",
+    "impactStatement": "other institutions of MR will follow it",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d84"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Designing an e-Psychometric Profile App",
+    "description": "The e-Psychometric Profiling App is a digital tool designed\r\n to assess an individual's cognitive abilities, personality \r\ntraits, emotional intelligence, and behavioral tendencies \r\nthrough standardized psychological format. The CSE students\r\n will create this app to provide the solution for students to \r\nunderstand their strengths, weaknesses, and compatibility\r\n with various roles. The app is widely applied in educational\r\n settings for student guidance, in corporate environments \r\nfor recruitment and employee development, and in clinical\r\n or counseling contexts for mental health assessment and\r\n personal growth planning. The project will address to SDG-3, SDG-4 & SDG-9.",
+    "facultyCoMentorsMRU": "1. Prof Prinima Gupta, CST\r\n2. Mr MK Kaul, Management\r\n3. Dr A Jaymani, Chemistry",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST",
+    "expectedOutcomes": "e-Psychometric Profile App",
+    "sdgImpact": "SDG-3",
+    "impactStatement": "Students' Welfare",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d85"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "To investigate on how the SAMR framework might be used to integrate educational technology into higher education classrooms through multidisciplinary approaches in order to foster transformative teaching methods and better student engagement and results.",
+    "description": "In order to successfully integrate educational technology in higher education utilizing the SAMR framework, this project is intrinsically interdisciplinary, leveraging knowledge from different fields. While instructional design and learning sciences offer ways for developing successful, tech-enhanced learning experiences, education and pedagogy give the framework for integrating technology with good teaching practices. While educational psychology offers insights into student motivation and cognitive processes in digital contexts, information technology guarantees the usability and scalability of digital technologies. Sociology and equity studies deal with issues of access, inclusion, and the digital divide, whereas communication and media studies improve digital literacy and involvement. Lastly, the impact of technology integration throughout SAMR levels is measured with the aid of assessment and evaluation disciplines.  Together, these disciplines support a holistic, sustainable, and equitable approach to transforming teaching and learning in higher education.",
+    "facultyCoMentorsMRU": "Dr. Eram Aziz",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Bushra Sumaiya, Assistant Professor, Faculty of Education, Integral University, Lucknow, India",
+    "disciplinesInvolved": "School of Engineering, School of Law, School of Education and Humanities, School of Management and Commerce",
+    "expectedOutcomes": "Research papers, Vlog/blog, Newspaper Article, Innovation",
+    "sdgImpact": "SDG 4 – Quality Education: Enhances teaching and learning quality through transformative technology integration in higher education.",
+    "impactStatement": "Through the SAMR framework, this initiative is anticipated to promote deeper, more meaningful integration of educational technology, hence improving the quality and efficacy of higher education. It will benefit society by creating more inclusive and equitable learning settings, closing the digital gap, and encouraging lifelong learning skills that are necessary for today's workforce. By bringing educational outcomes into line with changing industrial demands, it will assist business in producing graduates with more digital capabilities and flexibility. The project will advance research on pedagogical innovation and digital transformation in higher education by providing multidisciplinary insights and useful models for technology integration.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d88"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "School in a Box: Designing Portable Learning Kits”",
+    "description": "This IDP focuses on creating low-cost, mobile educational toolkits to support the learning needs of underprivileged children. Combining concepts from Science, Math, Art, and Design & Technology, students will work together to design compact, easy-to-carry kits filled with educational games, worksheets, and hands-on activities. These kits will be made using recycled or easily available materials to keep them sustainable and affordable. The project aims to promote inclusive education by ensuring that learning can reach children even in areas with limited resources. Through this initiative, students will not only apply their academic knowledge creatively but also develop empathy, problem-solving skills, and an understanding of real-world challenges in achieving quality education for all.",
+    "facultyCoMentorsMRU": "Mr. Sharv Datt Anand",
+    "industryMentors": "Dr. Abha Sharma",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Pooja Verma",
+    "disciplinesInvolved": "School of Engineering, School of Education and Humanities, School of  Sciences",
+    "expectedOutcomes": "Research papers, Vlog/blog, Newspaper Article, Innovation/ Tool kit",
+    "sdgImpact": "Quality Education: Enhances Teaching learning by developing educational teaching aids using no -cost concept.",
+    "impactStatement": "The project aims to promote inclusive education by ensuring that learning can reach children even in areas with limited resources. Through this initiative, students will not only apply their academic knowledge creatively but also develop empathy, problem-solving skills, and an understanding of real-world challenges in achieving quality education for all.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d89"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "To examine how cognitive and emotional factors influence financial decisions and mental well-being.",
+    "description": "This project delves into the fascinating intersection of behavioral finance and mental well-being, proposing a holistic approach to financial decision-making. It acknowledges that traditional financial models often overlook the powerful influence of human psychology, leading to suboptimal choices and heightened stress. By drawing upon principles from behavioral finance, such as cognitive biases, heuristics, and emotional influences, the project seeks to understand why individuals deviate from rational financial behavior.\r\n\r\nCrucially, it integrates these financial insights with psychological wisdom, recognizing the bidirectional relationship between financial health and mental state. The aim is to move beyond simply identifying problematic behaviors and instead develop actionable, behavior-based interventions. These interventions are designed not only to guide individuals towards more prudent financial decisions but also, critically, to alleviate the associated mental burden of financial stress. Ultimately, this interdisciplinary endeavor promises a pathway to improved financial literacy, reduced anxiety, and enhanced overall mental well-being.",
+    "facultyCoMentorsMRU": "Dr. Lakshya Malhotra",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d8b"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Designing Comprehensive Educational Policies",
+    "description": "This research will enable learners to understand the intricacies of educational policy-making processes. It will focus on several key factors, including social, political, and economic factors, that influence policy design. Together, we will read and discuss sections of NEP 2020 and analyze it.",
+    "facultyCoMentorsMRU": "Prof. Rashee Singh",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "Newspaper article, research paper",
+    "sdgImpact": "SDG 4- Quality Education- Comprehensive policies for better education system",
+    "impactStatement": "Knowing how educational policies are designed is crucial for the learners as it helps uncover the power dynamics at the societal level. The questions include: who holds power, whose interests are being prioritized, what is being (un)said, and how decisions affect educational systems and society at large. Outcomes: responsibel and informed educators and citizens.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d8e"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Legal and Technological Frameworks for Sustainable Urban Development: An Interdisciplinary Approach to Smart and Green Cities",
+    "description": "Law: Analysis of national and international environmental laws, urban planning regulations and legal enforcement mechanisms. Engineering: Evaluation of green infrastructure, waste management technologies, renewable energy solutions and sustainable building design. Humanities: Study of environmental ethics, public awareness, social impact assessments and behavioral change strategies. Management: Project planning, green finance, CSR practices, sustainability reporting and stakeholder engagement.",
+    "facultyCoMentorsMRU": "Dr Apala Vatsa",
+    "industryMentors": "Advocate Prerna Arora",
+    "alumniMentors": "Ms Sanjoli Sharma",
+    "externalFacultyMentors": "Prof. (Dr) Anurag deep",
+    "disciplinesInvolved": "Law, Management, Humanities",
+    "expectedOutcomes": "Research paper, Copyright,",
+    "sdgImpact": "SDG 11: Sustainable Cities and Communities – Primary impact through legal and tech-based urban planning. SDG 9: Industry, Innovation, and Infrastructure – Supports smart, resilient infrastructure.  SDG 13: Climate Action – Promotes climate-resilient urban policies and green technologies.  SDG 7: Affordable and Clean Energy – Encourages clean energy integration in urban areas.  SDG 6: Clean Water and Sanitation – Enhances water management through smart systems.  SDG 16: Peace, Justice, and Strong Institutions – Strengthens legal and governance frameworks.  SDG 17: Partnerships for the Goals – Fosters interdisciplinary and public-private collaboration.",
+    "impactStatement": "The project is expected to contribute significantly to new knowledge by addressing existing gaps in [insert subject area]. It will aid policymakers, professionals, and scholars with evidence-based insights and practical recommendations. The societal impact includes raising awareness, promoting justice, and empowering stakeholders, while the industry/professional impact involves strengthening practices, policy reforms, and capacity building in the relevant field.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d8f"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Business and Human Rights: An Interdisciplinary Study on Corporate Responsibility, Legal Compliance and Ethical Practices",
+    "description": "It will explore the intersection of human rights and corporate behavior, focusing on how businesses uphold human rights standards within global operations. It examines legal frameworks, ethical implications and management strategies for ensuring responsible business conduct. The project brings together perspectives from law, management, and humanities to analyze case studies and propose sustainable, rights-based business models.",
+    "facultyCoMentorsMRU": "Dr Superna",
+    "industryMentors": "Advocate Chayan Sarkar",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d91"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Pollution Control and Environmental Justice: Legal Frameworks, Corporate Accountability and Societal Impact",
+    "description": "Law, Management and Humanities domain. This project will examine how environmental laws regulate various forms of pollution, while also examining corporate accountability and the socio-cultural impact of environmental degradation. It adopts legal, managerial, and humanistic perspectives to propose effective and inclusive solutions for achieving environmental justice.",
+    "facultyCoMentorsMRU": "Dr. Ruchi Lal",
+    "industryMentors": "Advocate Sangam Singh Kochhar",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Anubha Srivastava, Assistant Professor, School of Law, Christ University, Bangalore",
+    "disciplinesInvolved": "Law, Environment, Justice",
+    "expectedOutcomes": "Research Paper; Blogs",
+    "sdgImpact": "SDG 8- Decent Work & Economic Growth; SDG 12- Responsible Consumption & Production; SDG 16- Peace, Justice & Strong Institutions; SDG 17- Partnerships for the Goals",
+    "impactStatement": "The research will enrich scholarly understanding of environmental law, corporate responsibility and socio-cultural dynamics of environmental harm.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d93"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Narratives of Nature:Exploring the Role of Literature in Environmental Awareness and Sustainable Thinking",
+    "description": "Literary works of all genres have long criticized environmental exploitation, portrayed peaceful, sustainable futures, and mirrored human interactions with nature. The goal of this project is to investigate how literary depictions of nature raise environmental consciousness and encourage sustainable thinking.",
+    "facultyCoMentorsMRU": "Ms. Ushita Banerjee, Assistant Professor, SoEH, MRU",
+    "industryMentors": "Mr. Prabhakar Patel",
+    "alumniMentors": "Ms. Shreya Mishra",
+    "externalFacultyMentors": "Dr. Anurag Joshi, Professor, Indore",
+    "disciplinesInvolved": "Environment Science, Education/English Literature",
+    "expectedOutcomes": "Research Paper; VLogBlogs;Newspaper Article",
+    "sdgImpact": "SDG3-Good helath and Well -Being; SDG13-Climate Action; SDG15-Life on Land",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d94"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Law and Sociology:  An Interdisciplinary study on Law and Society",
+    "description": "In modern societies, legal systems are designed to uphold justice and maintain social order. However, disparities in legal outcomes across different social groups raise concerns about the equitable application of the law. Sociological research indicates that factors such as socioeconomic status, race, and community norms can influence both the creation and enforcement of laws. This intersection between legal frameworks and social structures necessitates an in-depth examination of how societal norms and inequalities impact legal processes and outcomes. Understanding these dynamics is crucial for developing a legal system that is both fair and reflective of the diverse society it serves.​",
+    "facultyCoMentorsMRU": "Dr. Chhavi Kulshreshta",
+    "industryMentors": "",
+    "alumniMentors": "Ms. Saumya Sharma",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "Sociology",
+    "expectedOutcomes": "Research Papers, Case studies",
+    "sdgImpact": "he research will include a discussion of indigenous peoples' lifestyles and how they have managed to preserve their social environment by adopting sustainable lifestyles.",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d95"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "\"Living Heritage :The Role of Traditional Knowledge of Indigenous People in Conservation of Biodiversity\"",
+    "description": "Indigenous people have a sacred relationship with forest lands. Indigenous people with a historical continuity of resource-use practices often possess a broad knowledge base of the behavior of complex ecological systems in their own localities. Where indigenous people have depended, for long periods of time, on local environments for the provision of a variety of resources, they have developed a stake in conserving, and in some cases, enhancing biodiversity.The research aims to study the role that indigenous people can play in protection of eroding Environment.",
+    "facultyCoMentorsMRU": "Dr. Yamini Atreya",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Vanita Khanna, Assistant Professor, GNDU Regional Centre, Jalandhar",
+    "disciplinesInvolved": "Law, Environment and Sociology",
+    "expectedOutcomes": "Research Paper, Copyright",
+    "sdgImpact": "3,9,13,16",
+    "impactStatement": "The Research will be a discussion on the ways of life of indigenous people and how they have maneged to save the enviornment around them through the sustainable ways of living.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d96"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Autism Spectrum Disorder in Children: An Empirical Study Addressing the Educational Challenges and Human Rights Violation in India",
+    "description": "Autism Spectrum Disorder (ASD) is a complex neurodevelopmental condition that affects communication, behavior, and social interaction. In India, children with ASD often face significant educational challenges due to the lack of inclusive infrastructure, inadequate teacher training, and limited awareness. These educational barriers not only hinder academic development but also result in the systemic denial of fundamental human rights, including the right to education, equality, and dignity. This research adopts an interdisciplinary approach, integrating education, law, public policy, psychology, and human rights studies to comprehensively examine the lived realities of children with ASD.",
+    "facultyCoMentorsMRU": "Mr. Sharv Dutt Anand",
+    "industryMentors": "Ms. Amandeep Kaur",
+    "alumniMentors": "Payal Taver",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "Education",
+    "expectedOutcomes": "Research Paper; Newspaper article, Vlog/Blog",
+    "sdgImpact": "6, 11, 13, 14,15",
+    "impactStatement": "The study is expected to raise awareness about the educational challenges faced by children with Autism Spectrum Disorder (ASD) in India. It will help identify and document instances of human rights violations in educational settings. The research aims to inform policymakers to strengthen inclusive education policies under the Rights of Persons with Disabilities Act, 2016. It will support the development of specialized teacher training and autism-friendly teaching strategies. The study will fill critical empirical gaps by providing India-specific data on ASD and education. It will contribute to reducing social stigma and promoting acceptance of children with ASD. Overall, the research will generate actionable recommendations to improve educational access and uphold the dignity of children with ASD.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d97"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "An Interdisciplinary Analysis of Corporate Social Responsibility: Exploring its Impact, Ethical Dimensions, and Sustainable Practices",
+    "description": "The project will not only explore the legal angle with respect to Corporate Social Responsibility but also the economic implications of CSR and analyse the strategies of integrating CSR into core business strategy for long term value creation. It will also explore how CSR can align with the SDGs.",
+    "facultyCoMentorsMRU": "Ms. Surabhi",
+    "industryMentors": "Advocate Anant Vijay Maria, AOR Supreme Court",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Vidushi Puri, Assistant Professor Amity University Gurugram",
+    "disciplinesInvolved": "SoMC",
+    "expectedOutcomes": "Research paper, newspaper article",
+    "sdgImpact": "SDG 7, 9 and 13",
+    "impactStatement": "Exploring the alignment of CSR with SDG's for the Industry",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d98"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Digital Mediation Platforms and Access to Justice: An Interdisciplinary Study of Technology-Driven ADR Mechanisms in India",
+    "description": "While Alternative Dispute Resolution (ADR) mechanisms aim to provide quick and affordable justice, their effectiveness in the digital era remains underexplored. This project seeks to examine how technology—particularly digital mediation platforms—can enhance or hinder access to justice, especially for marginalized communities, combining insights from law, technology, and sociology.",
+    "facultyCoMentorsMRU": "Ms. Garima Pahwa",
+    "industryMentors": "Mr. Sidhant Kaushik, Principal Associate, DSK Legal",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d99"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Gender Discrimination and AI",
+    "description": "This project explores the intersection of Gender Discrimination and Artificial Intelligence, analyzing how AI technologies can both challenge and reinforce gender biases. It investigates the use of AI tools to detect and prevent discriminatory practices, particularly in hiring, content moderation, and workplace dynamics. At the same time, it critically examines how biased datasets and algorithmic design may unintentionally perpetuate gender stereotypes.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "Ms. Khyati Goel\r\nSenior Associate, Khaitan & Co.",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG5",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d9a"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Reimagining Trademark Law for the Virtual Economy: A Legal Framework for NFTs, Metaverse and Virtual Goods.",
+    "description": "This will focus on- Indian IP laws don't cover virtual assets, avatars, or trademark use in gaming/metaverse. Comparative study (EUIPO, USPTO); proposed reforms to Indian TM Rules; class extension under NICE Classification",
+    "facultyCoMentorsMRU": "Dr. Yamini",
+    "industryMentors": "Adv. Sumit Nagpal",
+    "alumniMentors": "Saumya",
+    "externalFacultyMentors": "Dr. Manisha Narula",
+    "disciplinesInvolved": "SoE",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG 8 & 9",
+    "impactStatement": "This research aims to modernize Indian trademark law to address the emerging challenges of virtual goods, NFTs, and the metaverse. By proposing legal reforms and aligning with global best practices, it contributes to building a robust IP framework that supports innovation, protects digital brands, and fosters trust in the virtual economy. The study is expected to benefit businesses, creators, and policymakers, while also promoting digital growth in line with sustainable development goals.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d9d"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Purpose beyond profit: rethinking CSR across disciplines",
+    "description": "The project will explores the evolving landscape of Corporate Social Responsibility through an interdisciplinary lens—combining law, business, sociology, and environmental studies. It aims to analyze how corporations are moving beyond traditional CSR to embrace long-term social impact initiatives. The research will focus on legal frameworks, ethical considerations, sustainable business models, and the societal outcomes of CSR programs. The project will include case studies, stakeholder interviews from Delhi NCR, and propose innovative strategies for companies to align.",
+    "facultyCoMentorsMRU": "Dr. Manisha",
+    "industryMentors": "Corporates",
+    "alumniMentors": "Shruti Kumari",
+    "externalFacultyMentors": "Navna",
+    "disciplinesInvolved": "SOL, SoMC",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 16",
+    "impactStatement": "understanding Role of MNCs for society",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d9e"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "“The Secret Recipe : \r\nTrade Secrets in the Food & Beverage Industry”",
+    "description": "In the rapidly growing food and beverage (F&B) industry, uniqueness and innovation often lie in recipes, preparation methods, ingredient mixes, and branding strategies. Many successful food ventures rely not on patents (which require disclosure), but on trade secrets to protect their distinctiveness and market edge.\r\nHowever, India lacks a dedicated Trade Secret law, relying instead on contract law, tort law, and judicial precedents. This leaves businesses, especially small cafés, local eateries, home chefs, and cloud kitchens, vulnerable to theft, misuse, or leakage of confidential recipes or business strategies — often by former employees or partners.Despite being the heart of many successful culinary ventures, trade secrets are often poorly understood and weakly protected, especially in India's informal and semi-formal food sector.\r\nThere is a lack of legal awareness, proper documentation (NDAs, confidentiality clauses), and strategic implementation of trade secret protection among small and medium food businesses.",
+    "facultyCoMentorsMRU": "Simran",
+    "industryMentors": "Cafe Owners - Mokaaz Case, Cafe Saga, Tapri, Maverick.",
+    "alumniMentors": "Neha Gupta",
+    "externalFacultyMentors": "Shivang Tripathi",
+    "disciplinesInvolved": "SoMC",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 9",
+    "impactStatement": "will identify the loop holes for research purposes",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d9f"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Gender studies and Law",
+    "description": "This project will critically examines the legal and ethical dimensions of menstruation leave policies. While some legal systems have begun to recognize menstrual leave, many others lack clarity or outright reject it, reflecting deep-rooted gender biases. By integrating feminist theory and philosophical notions of equality and bodily autonomy, this study explores whether and how legal recognition of menstruation leave can advance gender justice in the workplace.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "Mr. Saquib, Advocate, Allahabad High Court",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Anjali",
+    "disciplinesInvolved": "SoL",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2da0"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Interdisciplinary Examination of the Insolvency and Bankruptcy Code: Legal, Economic, and Financial Perspectives",
+    "description": "This interdisciplinary project will examine the impact, challenges, and potential improvements of the IBC from three key perspectives: legal, economic, and financial. The project will evaluate the efficacy of the IBC in achieving its objectives and propose enhancements to make it more effective in addressing corporate insolvencies in India.",
+    "facultyCoMentorsMRU": "Dr. Arushi",
+    "industryMentors": "Ms. Prerna Gupta, AOR, Supreme Court",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Ms. Garima Yadav, Assistant Professor",
+    "disciplinesInvolved": "SoMC",
+    "expectedOutcomes": "Respearch Paper",
+    "sdgImpact": "SDG8",
+    "impactStatement": "Will identify the effectiveness of the legal policy which plays a crucial role in our economy.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2da1"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI AND ROBOTICS IN LEGAL PROCEEDINGS: Algorithm and Machine Learning",
+    "description": "This research will be interdisplinary as it is integration of law, computer science and robotics engineering. The idea behind this research to make an algorithm which will act as robotic lawyer and judge as seen in China and USA.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "Dr. Parikshit Sirohi",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Medha Tiwari",
+    "disciplinesInvolved": "SOE, SOL",
+    "expectedOutcomes": "Patent/ Research Paper",
+    "sdgImpact": "SDG9",
+    "impactStatement": "Will bring AI and Robotics in Legal Faternity",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2da2"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Law, Power and the State",
+    "description": "1. Investigate how legal systems uphold, legitimize or challenge political authority; 2. Case studies could include authoritarian regimes, legal repression and emergency laws",
+    "facultyCoMentorsMRU": "Aditya verma",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Aratrika Deb",
+    "disciplinesInvolved": "Law and Political science",
+    "expectedOutcomes": "research paper",
+    "sdgImpact": "SDG 16",
+    "impactStatement": "Investigate how legal systems uphold, legitimize or challenge political authority",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2da3"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Neurotechnology and Indian Law: Navigation Legal Frontiers",
+    "description": "The rapid advancement of neurotechnology introduced new possibilities for criminal rehabilitation and cognitive enhancement. Neurotechnology such as Brain Computer Interfaces (BCI) and neuro imaging can provide valuable insights into criminal behaviour. Strong legal frame work  balances technological advancements with ethical and constitutional safeguards. The increasing reliance on digital and AI-based solution in the legal landscape, neurotechnology introduces novel  challenges that demands urgent legal scrutiny. The study highlights how neurotechnological developments can reshape criminal justice procedures and legal accountability.",
+    "facultyCoMentorsMRU": "Dr. Superna Venaik",
+    "industryMentors": "Adv. Gajendra Singh, Meerut Court,",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Tarun Pratap, Asst. Prof. GLA Univ. Mathura & Dr. Myunghoon Roh, Asst. Prof. Saive Regina Univ. US.",
+    "disciplinesInvolved": "Law, Science & Tech, Humanaties, Psychology",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG-16",
+    "impactStatement": "neurotechnology has the capacity to revolutionize criminal justice by making rehabilitation more effective and humane, to enhance human capabilities, and to expand our scientific understanding of the brain. However, the magnitude of these impacts will depend on the development of a strong legal and ethical framework that balances innovation with the protection of fundamental rights",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2da4"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Constitutionalism and Democratic Theory",
+    "description": "Examine the relationship between constitutional framework and democratic governance. Focuses on how constitutions constraint power, enable political participation and shape legitimacy. Topics include constitutional design, judicial review, populism vs. liberal constitutionalism, and the tension between majority rule and rights protection.",
+    "facultyCoMentorsMRU": "Apala Vatsa",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Aratrika Deb",
+    "disciplinesInvolved": "Law and Political science",
+    "expectedOutcomes": "research paper",
+    "sdgImpact": "SDG 16",
+    "impactStatement": "Investigate how legal systems uphold, legitimize or challenge political authority",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2da5"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "IP backed financing",
+    "description": "Intellectual Property (IP)-backed financing presents a complex, multidisciplinary challenge. While IP is a key intangible asset for start-ups and SMEs, it remains underutilized in formal credit systems due to legal uncertainties, lack of valuation standards, and enforcement difficulties. Financial institutions are hesitant to accept IP as collateral, given its intangible and volatile nature. Entrepreneurs often lack awareness and institutional support to monetize IP. Simultaneously, rapid technological innovations are creating new IP forms that outpace existing legal and financial frameworks. Addressing this issue requires a collaborative approach across law, finance, business, and technology to enable IP as a credible financial asset.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Waseem",
+    "disciplinesInvolved": "IPR",
+    "expectedOutcomes": "Research Article",
+    "sdgImpact": "SDG 9: Industry, Innovation, and Infrastructure",
+    "impactStatement": "A new form of funding can be created for MSME.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2da6"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Image Processing{enhancemeant,denoising} using Multiscale transform (Matlab,Paython Software )",
+    "description": "Image denoising plays very crucial role in applications which include photography/videography, Security-Surveillance, Medical Image analysis, Astronomy, Aerial photography, Satellite Imagery, and many more. The results of denoising also affect the accuracy of later tasks of image segmentation, object recognition, classification.\r\nIn this project we explore image denoising of different images with different noises using multiscale transform such as wavelet transform, ridgelet transform, curvelet transform and shearlet transform and several thresholding techniques such as hard thresholding, soft thresholding, SUREShrink, VisuShrink and BayesShrink etc. Further, we compare the performance of these methods or transform in terms of PSNR and MSE values and aim to provide better image denoising technique for images.",
+    "facultyCoMentorsMRU": "Dr. Charu Pathak, ECE Dept.\r\n Dr. Manpreet Kaur, CST Dept.",
+    "industryMentors": "1. Prof. Joonki Paik\r\nDepartment of Image Science \r\nChung-Ang University\r\n\r\n2. Prof. Gibak Kim\r\nDepartment of Electrical Enginnering\r\nSoongsil University, Seoul, South Korea",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST, ECE",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 3, 4, 9, 11, 13",
+    "impactStatement": "The outcome is expected to contribute:\r\n\r\nTo Industry: By improving visual data preprocessing pipelines in domains such as healthcare diagnostics, satellite image interpretation, and security surveillance, leading to more accurate and reliable decision-making.\r\n\r\nTo Society: Through enhanced image quality in daily applications such as mobile photography, video streaming, and medical diagnostics, ultimately improving user experience and diagnostic precision.\r\n\r\nTo New Knowledge: By offering comparative insights into the performance of different multiscale transforms and thresholding methods, the research contributes to the academic understanding and future development of efficient image denoising algorithms.\r\n\r\nIn general, this work promotes innovation in digital imaging and lays the groundwork for robust, noise-resilient image processing systems.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2da7"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "EduFlow: Optimizing Document Management and Workflow for Institutional Improvements",
+    "description": "Objective:\r\nTo create a centralized, efficient, and user-friendly system to optimize the management, review, approval, and storage of institutional documents, ensuring smooth workflows for internal processes like policy updates, accreditation, meeting minutes, and more. This project aims to streamline operations within educational institutions, particularly for departments like IQAC (Internal Quality Assurance Cell), and enhance document accessibility, security, and collaboration.\r\nThe project is interdisciplinary, combining Computer Science for backend development, cloud storage, and security protocols; Education Management for aligning workflows with institutional governance and accreditation standards; Human-Computer Interaction (HCI) for designing a user-friendly interface for diverse stakeholders; and Law and Compliance to ensure data privacy and audit trails. This integration of technical, educational, design, and legal aspects enhances document management efficiency and supports institutional quality assurance processes.",
+    "facultyCoMentorsMRU": "Dr. Prashant Bhardwaj\r\nDr. Roopa Rani",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST",
+    "expectedOutcomes": "Research paper, copyright",
+    "sdgImpact": "SDG 4,9,16,17",
+    "impactStatement": "Impact on Society\r\nEduFlow promotes transparency and efficiency in educational institutions by streamlining documentation and workflows, leading to improved governance and better academic outcomes.\r\n\r\nImpact on Industry\r\n\r\nIt offers a scalable digital solution for the higher education sector, supporting regulatory compliance, reducing manual processes, and fostering sustainable, paperless operations.\r\n\r\nContribution to New Knowledge\r\n\r\nEduFlow integrates technology, education management, design, and legal compliance to create an interdisciplinary model that advances research in digital transformation and quality assurance in education.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2da8"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Applications of Differential Geometry from Curved Spacetimes to Data Manifolds",
+    "description": "This project explores differential geometry concepts, specifically the curvature and topology of manifolds, to analyze structures arising in physics and data science. In physics, spacetime is modeled as a curved manifold in general relativity, while in data science, high-dimensional datasets often lie near lower-dimensional manifolds. The interdisciplinary focus lies in applying geometric tools to model physical phenomena and extract meaningful patterns from complex data.",
+    "facultyCoMentorsMRU": "Prof. Sachin Lakra, \r\nProfessor- CST, MRU",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Mamta Thakur,",
+    "disciplinesInvolved": "CST, Maths",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG4, SDG13",
+    "impactStatement": "Differential geometry bridges theoretical physics and data science, shaping our understanding of spacetime and enabling manifold learning in AI. Its applications in robotics, neuroscience, and medical imaging drive innovation and precision. The field contributes to smarter technologies and deeper insights into natural phenomena. This fosters interdisciplinary research and societal advancement through geometry-driven knowledge.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2da9"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Graph Theoretic Analysis of Social Media Networks",
+    "description": "This project is interdisciplinary as it applies mathematical graph theory and computational algorithms (from mathematics and computer science) to analyze the structure and dynamics of social media networks, while interpreting the results through the lens of social science to understand human behavior, influence, and community formation.\r\nSuch integration enables a comprehensive understanding of both the technical and social aspects of online platforms, supporting applications in areas like marketing, public health, and information dissemination.",
+    "facultyCoMentorsMRU": "Prof. ( Dr. ) Mrinal Pandey",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST, Maths",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 3, SDG 4, SDG 9",
+    "impactStatement": "The expected impact of this interdisciplinary project is to give society and industry better ways to understand and predict how people connect, share, and influence each other on social media platforms. By applying graph theory and computer algorithms, the project will help improve marketing strategies, strengthen online communities, and provide new knowledge about digital human behavior, making online interactions safer and more effective for everyone.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2daa"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Smart Predictions: Applied Machine Learning with Statistical Foundations",
+    "description": "This project is interdisciplinary as it appliesStatistics, Computer Science, and Engineering—to provide students with an approach to solve complex, real-world problems.                                                                The project aims to apply statistical analysis and machine learning techniques for solving real-world engineering problems by building predictive models, interpreting results with statistical rigor.",
+    "facultyCoMentorsMRU": "Prof.(Dr.) Deepa Arora, Dr Shalu",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST, Maths",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 3, SDG 4, SDG 9",
+    "impactStatement": "These project will  lead to increased efficiency, better resource allocation, and even improvements in public health and safety. However, this technology also presents challenges related to job displacement, bias, and ethical considerations, highlighting the need for careful consideration and responsible implementation, according to research and analysis of the societal impact of machine learning.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dab"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Climate Modeling with Polynomial Approximations",
+    "description": "This project integrates mathematics (polynomial approximation theory) with climate science to model and predict environmental variables. It bridges numerical methods and data analysis to provide simplified yet insightful representations of complex climate behavior.",
+    "facultyCoMentorsMRU": "NA",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "Chemistry, Maths",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG 4, 9 & 13",
+    "impactStatement": "This project is expected to enhance climate prediction accuracy while reducing computational complexity, making climate models more accessible and actionable. It can aid policymakers, industries, and communities in planning for climate risks, while offering the scientific community new insights into the application of polynomial approximations in environmental modeling. The work contributes to both sustainable development and mathematical modeling innovation.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dac"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Numerical Solution of Abel's Integral Equations",
+    "description": "In this project we will find the high order numerical solution of Abel's differential equation by using the different techniques of mathematical methods with stability analysis.",
+    "facultyCoMentorsMRU": "Dr. Ramapati Maurya",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Vijay Kumar Yadav\r\nDepartment of Sciences (Mathematics), School of Sciences, Amity University, Haryana",
+    "disciplinesInvolved": "Sciences and Engineering",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG 4,9 &13",
+    "impactStatement": "The project will provide new insights into the numerical behavior and stability properties of high-order methods when applied to Abel’s differential equation—a class of nonlinear differential equations known for their mathematical complexity. The research may lead to the derivation or refinement of algorithms that can be generalized to broader classes of nonlinear problems. Many engineering, physics, and biological systems are modeled using nonlinear differential equations. Improved numerical methods for solving such equations can enhance the accuracy and reliability of simulations in industries like aerospace, biomedical engineering, and climate modeling.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dad"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Modelling the application of renewable energy resources for Sustainable Development",
+    "description": "The objective of this project is to develop a model that demonstrates the effective application of renewable energy resources—such as solar, wind, and hydro—to meet energy demands in a sustainable and cost-efficient manner. This model will simulate energy generation, usage, and optimization under real-world constraints, aiming to reduce dependency on fossil fuels, lower carbon emissions, and promote sustainable development.",
+    "facultyCoMentorsMRU": "Dr. Vinayak V. Pathak & Dr. M. Javed Idrisi",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "Sciences and Engineering",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG 2, 7, 11, 13",
+    "impactStatement": "Expected Impact on Industry:\r\nThe project will drive innovation in renewable energy technologies, attract investment in green infrastructure, generate employment opportunities, and support industries in transitioning towards cost-effective and resilient energy systems.\r\n\r\nContribution to New Knowledge:\r\nThe project will contribute to the development of integrated modelling frameworks for renewable energy deployment, offer data-driven insights for energy planning, and provide scientific support for policy-making in the context of sustainable development.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dae"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Applications of Navier-Stokes Equation",
+    "description": "It involves practical applications in aerospace, mechanical, and civil engineering for designing systems involving fluid flow, such as aircraft, pipelines, and ventilation systems.",
+    "facultyCoMentorsMRU": "Dr. J. P. Sharma & Dr. M. Javed Idrisi",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. M. Shahbaz Ullah, Department of Mathematics, NSUT, New Delhi",
+    "disciplinesInvolved": "Sciences and ME",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG'S- 9,7&13",
+    "impactStatement": "Our project could refine existing computational models or propose novel approaches to solving the Navier-Stokes Equation, contributing to theoretical fluid mechanics, numerical analysis, and real-world engineering applications.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2daf"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Numerical Methods for Solving Differential Equations",
+    "description": "This involves Implement and compare different numerical techniques (Euler’s method, Runge-Kutta methods, etc.) for solving ordinary differential equations and analyze their accuracy and efficiency for real-world problems .",
+    "facultyCoMentorsMRU": "Dr. Smrati Mishra , Dr. Nitika",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr.Chhavi rathi,\r\nDepartment of Engineering and Technology,Bharti Vidyapeeth ,Navi Mumbai",
+    "disciplinesInvolved": "Sciences and Engineering",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG'S- 9,7&13",
+    "impactStatement": "This project would enable accurate modeling of complex systems, driving innovation in science, engineering, and industry. They improve predictions, optimize designs, reduce costs, enhance safety, and contribute to new scientific knowledge where analytical solutions are not possible.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2db0"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "To study the motion of test particle in the vicinity of dominant primaries",
+    "description": "This study integrates the concepts and methods of Celestial Mechanics, Differential Equations and Nonlinear Dynamical Systems.",
+    "facultyCoMentorsMRU": "Dr. Ruchi Gupta & Dr. Advin",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. M. Shahbaz Ullah, Department of Mathematics, NSUT, New Delhi",
+    "disciplinesInvolved": "Physics, Maths, Aerospace",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG 4,9 &13",
+    "impactStatement": "Our project deepens theoretical understanding in astrodynamics and gravitational systems, potentially contributing to novel solutions in orbital mechanics, Lagrangian point dynamics, and interplanetary mission design.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2db1"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Applications of \r\nMetric Spaces \r\nin Computer Science",
+    "description": "This will explore the use of metric spaces in areas such as machine learning, computer vision, and networking.",
+    "facultyCoMentorsMRU": "Dr. Ramapati Maurya",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Ankit Gupta, Bharti College, University of Delhi",
+    "disciplinesInvolved": "Sciences and CSE",
+    "expectedOutcomes": "Research paper",
+    "sdgImpact": "SDG 4,9",
+    "impactStatement": "The project enhances user experiences and improves security by using facial recognition in devices and image comparison, pattern recognition that depends on defining distances in high-dimensional metric spaces.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2db2"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Design and Manufacturing of Electric Vehicle",
+    "description": "\"Design and Manufacturing of Electric Vehicles (EVs)\" is a broad and multidisciplinary topic that includes mechanical, electrical, software and systems engineering.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2db4"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "moved to R&AI sheet",
+    "description": "",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2db5"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "moved to R&AI sheet",
+    "description": "Study of Failure phenomena of hydrodynamic bearing through simulation on Ansys.\r\nOptimization of VAWT efficieny through simulation study",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2db6"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Smart HVAC Systems using IoT",
+    "description": "1. A smart HVAC system can be developed by integrating multiple sensors to enhance real-time monitoring and control of indoor air quality and thermal comfort.To enable remote accessibility and data logging, the system can be designed with a cloud-based control architecture using microcontrollers like ESP32, Arduino, or Raspberry Pi. Mobile application can be developed to provide users with a real-time interface for monitoring indoor environmental quality and HVAC system status.energy-saving algorithms based on occupancy can be implemented to enhance system performance.\r\n2. Optimization of VAWT efficieny through simulation study",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "Mr. Anuj Gupta",
+    "alumniMentors": "Mr. Amaan Khan",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "School of Engineering",
+    "expectedOutcomes": "Research Paper, Start Up",
+    "sdgImpact": "SDG7",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2db9"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "To design, analyze and fabricate 6 DOF Robotic Arm",
+    "description": "6 Degree of Freedom robotic arm will be designed and analysed using MATLAB. Final structure will be fabricated",
+    "facultyCoMentorsMRU": "Dr. J P Sharma\r\nDr. Neha Chaudhary",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "Mechanical",
+    "expectedOutcomes": "Research paper & startup",
+    "sdgImpact": "7,12",
+    "impactStatement": "Less time to program a robot for a predefined task",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dbb"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "To prepare aluminum composite/foam by friction stir processing and its mechanical characterization",
+    "description": "Reinforce particle is mixed in aluminium alloy base material with the help of friction stir processing and after heat treatment its mechanical properties need to be evaluated for further analysis",
+    "facultyCoMentorsMRU": "Dr. Pradeep Mouria",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Neha Bhadauria",
+    "disciplinesInvolved": "School of Engineering",
+    "expectedOutcomes": "Research Paper/ Patent",
+    "sdgImpact": "SDG 9",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dbc"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Tech Startup Incubation Project",
+    "description": "Focus: Development of a tech-based product or service.\r\nEngineering Role: Design and prototype development.\r\nManagement Role: Business planning, marketing, funding strategy.\r\nLaw Role: Intellectual property rights (IPR), regulatory compliance, contract drafting.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "SOE\r\nSOL\r\nSoMC",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dc1"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Technology Commercialization and IP Strategy",
+    "description": "Focus: Taking innovations from lab to market.\r\nEngineering Role: Innovating or refining the tech.\r\nManagement Role: Market research, business modeling, investor pitches.\r\nLaw Role: Drafting patent claims, licensing agreements, IP portfolio management.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "SOE\r\nSOL\r\nSoMC",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dc2"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Smart City Solutions",
+    "description": "Focus: Urban development projects using smart technology.\r\nEngineering Role: IoT systems, sustainable infrastructure, data analytics.\r\nManagement Role: Project management, financial viability, stakeholder engagement.\r\nLaw Role: Urban laws, environmental regulations, public-private partnerships.",
+    "facultyCoMentorsMRU": "Dr. Gurpreet Kaur",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "SOE\r\nSOL\r\nSoMC",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dc3"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Determination & Assessment of financial Risk using Predictive Modelling",
+    "description": "",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dc6"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "What financial instruments can effectively drive private investment into renewable energy in emerging markets?",
+    "description": "Finance, Environmental Policy, Development Studies",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "Miss Sween Adlakha",
+    "alumniMentors": "MIss preeti khatri",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "Management and Law",
+    "expectedOutcomes": "Research article",
+    "sdgImpact": "SDG7",
+    "impactStatement": "Monitoring and evaluation of these instruments generate data on what works—informing better policy, risk pricing, and development planning.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dc7"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "How can machine learning techniques improve demand forecasting accuracy in supply chains?",
+    "description": "Computer Science and Operations",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dca"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "examine how cognitive and emotional factors influence financial decisions and mental well-being.",
+    "description": "The project explores how behavioral finance principles and psychological insights can jointly improve financial decision-making and mental well-being. By integrating finance and mental health disciplines, it aims to develop behavior-based interventions that reduce financial stress",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "Ms Savita Sharma",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "Education",
+    "expectedOutcomes": "Blog",
+    "sdgImpact": "SDG3",
+    "impactStatement": "Understanding of investor's investment behaviours",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dcb"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "CSR & ESG Compliance Projects",
+    "description": "Focus: Corporate Social Responsibility & ESG.\r\nManagement Role: CSR & ESG reporting frameworks, stakeholder engagement.\r\nLaw Role: Compliance & Impact Assessment.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "SOE\r\nSOL\r\nSoMC",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dcd"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Study of TEC using GNSS receiver",
+    "description": "Irregularities in ionospheric densities will affect the radio communication. This study will be more beneficial for ECE students.",
+    "facultyCoMentorsMRU": "Dr. Ananna Bardhan",
+    "industryMentors": "Dr. Nirvikar from NARL-ISRO, Tirupati",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "ECE",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 9",
+    "impactStatement": "Contibution to new knowledge",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dd3"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Simulations of laser-wakefield calculation using FBPIC, a Particle-In-Cell (PIC) open source code.",
+    "description": "This project will integrate knowledge of C++, Python, and Linux operating system use for modelling laser Wakefield acceleration. The project will bridge gap between theory and application.",
+    "facultyCoMentorsMRU": "Dr. J. P. Singh",
+    "industryMentors": "Prof. Moses Chung (POSTECH, Pohang, S. Korea)",
+    "alumniMentors": "Ms. Shruti Gulihar",
+    "externalFacultyMentors": "Prof. H. K. Malik (IIT Delhi)",
+    "disciplinesInvolved": "CST/ECE/ME",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 3, 4, 7, 9",
+    "impactStatement": "LPWA represents a significant technological innovation in accelerator physics, New diagnostic tools for health care, Accelerates development of next-generation energy technologies, Opens up access to high-energy physics research in regions without large-scale facilities",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dd4"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "1. Synthesis of Nickel Cobalt Mangnese Oxide (NCM111) Material,                                                                                           2.  Senstitvity of Photoresists on EUV Lithography: Theortical Consideration (Tentative)                                                             3. Synthesis of LuFe2O4  for Multiferroic Behavior                                                                                                                     4. Unifying the synthesis Mechanism of spinel ferrite from fruit waste                                                                                      5. Growth inhibition and stabililty of Calcium Carbonate                                                                                                           6. Design of Load-lock chambe with radio sputtering at UIC",
+    "description": "1. Synthesized material will be used as a cathode material for rechargeable battery                                                                 2. Semiconducting device fabrication",
+    "facultyCoMentorsMRU": "1. Dr. Jai Parkash                                        2.Looking for                                 3. Dr. Jai Parkash                                         4. Looking for                                5. Looking for                                                                                                                  6. Looking for",
+    "industryMentors": "1. Prof. Keun Hwa Chae, KIST Korea \r\n2. Prof Sangsul Lee, POSTECH Korea                   3. Dr. V. Raghvendra Reddy, UGC-DAE CSR Indore                                                     4. Prof. Ha Noi University, Vietnaam           5. Dr. W. C. Lim, KIST Korea                       6. IUAC New Delhi",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Prof Sangsul Lee, POSTECH Korea",
+    "disciplinesInvolved": "ME/Materials/ECE/CST",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 9",
+    "impactStatement": "Contibution to new knowledge",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dd5"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "1. Synthesis of Room temperature Multiferroics,                                                          2.  Development and testing of Ion implantation Induced Charge Transport Layers in Perovskite Solar Cells for Enhancing the Efficiency(Tentative)",
+    "description": "1. It is an interdisciplinary project because it integrates knowledge and techniques from multiple scientific fields like Physics, Chemistry, Material Science and Enginnering. (a) Physics will help in understanding  the fundamental mechanisms of ferroelectricity, magnetism, and their coupling. (b) Chemistry will play a key role in material synthesis, doping strategies, and phase formation. (c) Materials Science is essential for tailoring properties through microstructural control and advanced characterization techniques.(d) Engineering contributes to the development of devices and integration of these materials into sensors, memory.",
+    "facultyCoMentorsMRU": "1. Dr. Jitendra Pal Singh           2. Dr. Shiv Kumar Dixit",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Aditya Sharma, UPES Dehradun",
+    "disciplinesInvolved": "ME/ECE",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG-09",
+    "impactStatement": "1. It may enhance the storage density of computers and may enable magnetoelectric random access memory which is faster and consumes less energy than traditional one 2. Improved solar cell efficiency reduces dependency on fossil fuels and Solar energy production doesn’t emit pollutants, reducing health risks and ecosystem damage.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dd6"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Simulation of Raman Spectra for the estimation of crystallite size.",
+    "description": "A research work, capable for students having knowledge of MATLAB and PYTHON.",
+    "facultyCoMentorsMRU": "Dr. Deepti Maikhuri",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Monika Tomar, Univ. of Delhi",
+    "disciplinesInvolved": "Chemistry, Physics, CST",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 9",
+    "impactStatement": "Contibution to new knowledge",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dd7"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Study of Earthquake precursors using GNSS data",
+    "description": "Irregularities in atmospheric/ ionospheric parameters that will be affected by Earthquakes. The Earth prepares itself pre and post- occurance of Earthquakes. This study will be more beneficial for CSE students having background knowledge of PYTHON/ MATLAB etc.",
+    "facultyCoMentorsMRU": "Prof. D.K. Sharma",
+    "industryMentors": "Dr. Nirvikar form NARL-ISRO, Tirupati or other Scientists from IIRS, ISRO",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CSE",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 9",
+    "impactStatement": "Contibution to new knowledge",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dd8"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Machine Learning enhanced evaluation of nonlinear optical properties of quantum dots",
+    "description": "This project will implement Machine Learning to explore nonlinear optical properties of quantum dots",
+    "facultyCoMentorsMRU": "Any faculty memeber from CST with expertise in machine learning algorithms",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "CST, Physics",
+    "expectedOutcomes": "Research Paper",
+    "sdgImpact": "SDG 9",
+    "impactStatement": "Combining ML with QD research bridges computer science, physics, and materials science, fostering new methodologies for studying complex systems and accelerating scientific discovery.Also it will impact Photonics and Optoelectronics industry.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dd9"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Machine learning assisted thin film growth using RF sputtering",
+    "description": "Thin film deposition using RF sputtering, machine learning optimization algorithms to be used",
+    "facultyCoMentorsMRU": "Dr. Jitnedra Pal Singh and Any faculty memeber from CST with expertise in machine learning algorithms",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Prof. S. Annapoorni, DU",
+    "disciplinesInvolved": "Physics/Chemistry/ME and CST",
+    "expectedOutcomes": "Reseearch paper",
+    "sdgImpact": "SDG 9, 12, 17",
+    "impactStatement": "Minimization of resource consumption, knowledge enhancement of student and mentors",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2dda"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Development and testing of Ion implantation Induced Charge Transport Layers in Perovskite Solar Cells for Enhancing the Efficiency(Tentative)",
+    "description": "(a) Physics will help in understanding  the fundamental mechanisms of ferroelectricity, magnetism, and their coupling. (b) Chemistry will play a key role in material synthesis, doping strategies, and phase formation. (c) Materials Science is essential for tailoring properties through microstructural control and advanced characterization techniques.",
+    "facultyCoMentorsMRU": "Dr Jai Prakash from Physics",
+    "industryMentors": "NA",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "Dr. Prabhash Mishra , Jamia Millia Islamia",
+    "disciplinesInvolved": "Physics/Chemistry/ECE",
+    "expectedOutcomes": "Reseearch paper",
+    "sdgImpact": "SDG 07",
+    "impactStatement": "Contibution to new knowledge",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2ddb"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "Study of Failure phenomena of hydrodynamic bearing through simulation on Ansys.",
+    "description": "For optimizing the perfomance, faculty from electronics department is required",
+    "facultyCoMentorsMRU": "Dr. Piyush Mahendru\r\nDr. Vijay Gill",
+    "industryMentors": "Mr. Siddhart Borkataky",
+    "alumniMentors": "NA",
+    "externalFacultyMentors": "NA",
+    "disciplinesInvolved": "Mechanical & Electronics",
+    "expectedOutcomes": "Research Paper, patent",
+    "sdgImpact": "SDG 7, 9",
+    "impactStatement": "Power consumption is reduced due to minimal contact between stationary and rotating compnents.",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2db6"
+    }
+  },
+  {
+    "status": "Open",
+    "appliedStudentIds": [],
+    "title": "AI-Powered Smart Waste Management System for Urban Localities",
+    "description": "Urban waste management remains a persistent challenge due to inefficiencies in waste categorization, collection logistics, and environmental impact monitoring. This project seeks to address this issue by designing an AI-driven smart waste management system that integrates computer vision, IoT technologies, environmental sustainability principles, and economic feasibility models. This is inherently an interdisciplinary problem, requiring collaboration across:\r\n\r\nComputer Science: to develop machine learning models for real-time waste classification and predictive analytics for collection route optimization.\r\nElectronics/IoT: to design and deploy sensor networks for tracking bin fill levels and environmental conditions (e.g., temperature, odor, gas emissions).\r\nEnvironmental Science: to guide the system design towards environmentally sustainable practices and compliance with urban waste disposal regulations.\r\nBusiness/Management: to analyze operational viability, cost-benefit structures, and propose models for municipal partnerships and smart city integration.",
+    "facultyCoMentorsMRU": "",
+    "industryMentors": "",
+    "alumniMentors": "",
+    "externalFacultyMentors": "",
+    "disciplinesInvolved": "",
+    "expectedOutcomes": "",
+    "sdgImpact": "",
+    "impactStatement": "",
+    "primaryFacultyMentorId": {
+      "$oid": "6898b384474bba2dd72a2d70"
+    }
+  }
+]

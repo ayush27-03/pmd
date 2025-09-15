@@ -1,0 +1,174 @@
+[
+  {
+    "__EMPTY_5": "At least 1 out of Industry mentor or Alumni Mentor or Faculty Co-Mentor from outside MRU is required."
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": "Sl. No",
+    "__EMPTY": "Name of Faculty",
+    "__EMPTY_1": "Designation",
+    "__EMPTY_2": "Problem Statement",
+    "__EMPTY_3": "IDPaspectInproblemStatement",
+    "__EMPTY_4": "facultyComentorFromMRU",
+    "__EMPTY_5": "industryMentor",
+    "__EMPTY_6": "alumniMentor",
+    "__EMPTY_7": "facultyComentorOutsideMRU",
+    "__EMPTY_8": "DisciplinesInvovled",
+    "__EMPTY_9": "ExpectedOutcome",
+    "__EMPTY_10": "SDGs",
+    "__EMPTY_11": "societalOrIndustrialImpact"
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 1,
+    "__EMPTY": "Prof. (Dr.) Dipali Bansal",
+    "__EMPTY_1": "Dean-Engineering"
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 2,
+    "__EMPTY": "Prof. (Dr.) Shruti Vashist",
+    "__EMPTY_1": "Prof., Dean-Academics\r\nDean Research & Consultancy\r\nHoD-ECE",
+    "__EMPTY_2": "Self Cleaning Ceiling Fan",
+    "__EMPTY_3": "A Smart AC Fan which can clear itself without interuption or requirenment of human interface perdiocally  ",
+    "__EMPTY_4": "Mr. Vijay Kumar Gill, Dr. Parneeta Dhaliwal",
+    "__EMPTY_5": "NA",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "NA",
+    "__EMPTY_8": "CSE, ECE",
+    "__EMPTY_9": "Patent, Prototype",
+    "__EMPTY_10": "SDG 3, 7, 9 and 12",
+    "__EMPTY_11": "Reducing accident and help woman and  elderly or sepcially challenged person."
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 3,
+    "__EMPTY": "Dr. Meenakshi Gupta",
+    "__EMPTY_1": "Assoc. Prof.-Assoc. HoD",
+    "__EMPTY_2": "Smart Waste Segregation System Using Computer Vision and Sensors",
+    "__EMPTY_3": "Improper waste segregation at the source is a persistent issue in urban waste management. Manual sorting is inefficient and poses health risks to workers. There is a need for an automated system that classifies and separates waste efficiently.",
+    "__EMPTY_4": "Dr. Niharika Thakur",
+    "__EMPTY_5": "Dr. Anil Kumar Saini , CEERI, Pilani",
+    "__EMPTY_6": "Ms. Priyanka Mangla, B.tech ECE, (2011-2015) Scientist 'SC', Space Application Centre, ISRO",
+    "__EMPTY_7": "Ms. Neha Gupta, Bharti Vidyapeeth College of Engineering ",
+    "__EMPTY_8": "ECE, CST",
+    "__EMPTY_9": "Research Papers, Patent, Prototype",
+    "__EMPTY_10": "SDG 11 – Sustainable Cities and Communities\r\nSDG 12 – Responsible Consumption and Production\r\nSDG 13 – Climate Action\r\n\r\n",
+    "__EMPTY_11": "1. Societal Impact:\r\n\r\ni. Enhances public health and hygiene by reducing human contact with waste.\r\n\r\nii. Educates communities about waste categorization and promotes eco-conscious behavior.\r\n\r\niii. Empowers municipalities with data-driven insights for better planning and resource allocation.\r\n\r\n2. Industrial Impact:\r\n\r\ni. Offers a scalable solution for smart cities, municipalities, and waste management companies.\r\n\r\nii. Reduces labor costs and operational inefficiencies in waste handling.\r\n\r\niii. Enables real-time monitoring and automation, improving compliance with environmental regulations.\r\n\r\n3. Contribution to New Knowledge:\r\n\r\ni. Demonstrates the integration of computer vision and sensor fusion in environmental applications.\r\n\r\nii. Adds to the field of AI-driven sustainable technologies with a real-world deployment model.\r\n\r\niii. Provides a foundation for future research in automated material recovery, smart recycling, and robotics in waste management.\r\n"
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 4,
+    "__EMPTY": "Prof. (Dr.) Charu Pathak ",
+    "__EMPTY_1": "\r\nProfessor\r\n                              ",
+    "__EMPTY_2": "Image Processing{enhancemeant,denoising} using Multiscale transform (Matlab,Paython Software )",
+    "__EMPTY_3": "Image denoising plays very crucial role in applications which include photography/videography, Security-Surveillance, Medical Image analysis, Astronomy, Aerial photography, Satellite Imagery, and many more. The results of denoising also affect the accuracy of later tasks of image segmentation, object recognition, classification.\r\nIn this project we explore image denoising of different images with different noises using multiscale transform such as wavelet transform, ridgelet transform, curvelet transform and shearlet transform and several thresholding techniques such as hard thresholding, soft thresholding, SUREShrink, VisuShrink and BayesShrink etc. Further, we compare the performance of these methods or transform in terms of PSNR and MSE values and aim to provide better image denoising technique for images.",
+    "__EMPTY_4": "Dr. Aparna Vyas",
+    "__EMPTY_5": "NA",
+    "__EMPTY_6": "NA ",
+    "__EMPTY_7": "1. Prof. Joonki Paik\r\nDepartment of Image Science \r\nChung-Ang University\r\n\r\n2. Prof. Gibak Kim\r\nDepartment of Electrical Enginnering\r\nSoongsil University, Seoul, South Korea",
+    "__EMPTY_8": "Sciences, CST, ECE",
+    "__EMPTY_9": "Research Paper",
+    "__EMPTY_10": "SDG 3, 4, 9, 11, 13",
+    "__EMPTY_11": "The outcome is expected to contribute:\r\n\r\nTo Industry: By improving visual data preprocessing pipelines in domains such as healthcare diagnostics, satellite image interpretation, and security surveillance, leading to more accurate and reliable decision-making.\r\n\r\nTo Society: Through enhanced image quality in daily applications such as mobile photography, video streaming, and medical diagnostics, ultimately improving user experience and diagnostic precision.\r\n\r\nTo New Knowledge: By offering comparative insights into the performance of different multiscale transforms and thresholding methods, the research contributes to the academic understanding and future development of efficient image denoising algorithms.\r\n\r\nIn general, this work promotes innovation in digital imaging and lays the groundwork for robust, noise-resilient image processing systems."
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 5,
+    "__EMPTY": "Mr. Bhanu Pratap Chaudhary",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_2": "Real-Time Air Pollution Monitoring and Control System for Urban Environments",
+    "__EMPTY_3": "A low-cost sensor network to measure pollutants and provide data-driven control strategies to reduce air pollution. Integration of Environmental Science (air pollutants), Electronics (sensor networks), Electrical Engineering (communication systems), and Urban Planning.",
+    "__EMPTY_4": "Mr. Vijay Kumar Gill, Dr. Lokesh Bhardwaj",
+    "__EMPTY_5": "NA",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "Dr. Ravi shankar",
+    "__EMPTY_8": "Sciences, ECE, ME",
+    "__EMPTY_9": "Prototype, Research Paper, Patent",
+    "__EMPTY_10": "SDG 11: Sustainable Cities and Communities",
+    "__EMPTY_11": "Enables better air quality management, improves public health, and supports policy making."
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 6,
+    "__EMPTY": "Mr. Lokesh Bhardwaj",
+    "__EMPTY_1": "Asstt. Prof."
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 7,
+    "__EMPTY": "Dr. Niharika Thakur",
+    "__EMPTY_1": "Associate Dean-SW\r\nAssoc. Prof.\r\n",
+    "__EMPTY_2": "Smart Vehicle with Alcohol Detection and Accident Alert",
+    "__EMPTY_3": "A system that prevents ignition if alcohol is detected and sends live location in case of crash.",
+    "__EMPTY_4": "Dr. Meenakshi Gupta",
+    "__EMPTY_5": "Dr. Yogita Khanna, Manager, Kohler",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "NA",
+    "__EMPTY_8": "ECE, CST, ME",
+    "__EMPTY_9": "Research Paper, Patent and Prototype",
+    "__EMPTY_10": "3 (Health), 11 (Safe Transport)",
+    "__EMPTY_11": "Aids in reducing drunk driving cases and improves emergency response."
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 8,
+    "__EMPTY": "Dr. Piyush Charan",
+    "__EMPTY_1": "Assoc. Prof.",
+    "__EMPTY_2": "moved to R&AI sheet"
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 9,
+    "__EMPTY": "Mr. Varun Yadav",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_2": "Left"
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 10,
+    "__EMPTY": "Mr. Vijay Kumar Gill",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_2": "Anti Suicidal Fan",
+    "__EMPTY_3": "Anti-suicidal fan will measure the weight and slowly fall off to lower height to save life and raise alarm ",
+    "__EMPTY_4": "Mr. Bhanu Pratap Chaudhary, Dr. Lokesh Bhardwaj",
+    "__EMPTY_5": "NA",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "Dr. Anand Singh Rajpoot",
+    "__EMPTY_8": "CST, ECE",
+    "__EMPTY_9": "Patent and Prototype",
+    "__EMPTY_10": "SDG 3, 9, 11",
+    "__EMPTY_11": "protect life, promote mental well-being, and create safer environments through thoughtful design and innovation"
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 11,
+    "__EMPTY": "Dr. Priyanka Bansal",
+    "__EMPTY_1": "Professor",
+    "__EMPTY_2": "moved to R&AI sheet"
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 12,
+    "__EMPTY": "Dr. Pawan Kumar Sharma",
+    "__EMPTY_1": "Assoc. Prof.",
+    "__EMPTY_2": "Left"
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 13,
+    "__EMPTY": "Ms. Nitu Chauhan",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_2": "MindBand: IOT enabled Wearable and App Ecosystem for Campus Mental Well-Being",
+    "__EMPTY_3": "ECE students can work on integration of biometric sensors: Photoplethysmography (PPG) (for Heart Rate Variability), Electrodermal Activity (EDA), Temperature and embedded firmware design for real time monitoring. AI can be implemented by CSE students for analysing the time series data. They can also develop an app for visual insights and interventions. Mechanical students can design a comfortable adjustable, band or clip-on for daily wear which is Sweat-resistant, lightweight and made of skin-safe materials.",
+    "__EMPTY_4": "Dr Chandni Magoo",
+    "__EMPTY_5": "NA",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "Ms. Mrinal Manjari, Satyug Darshan Institute of Engg. and Technology, Faridabad",
+    "__EMPTY_8": "ECE, CST, ME",
+    "__EMPTY_9": "Research Paper, Patent, Prototype",
+    "__EMPTY_10": "SDG 3 (Good Health and Well-Being) , SDG 4 (Quality Education) and SDG 9 (Industry, Innovation and Infrastructure)",
+    "__EMPTY_11": "Supports mental health awareness in academic institutions with tech-based interventions\r\n\r\nEncourages early detection of stress and burnout in students, leading to timely help"
+  },
+  {
+    "DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING:": 14,
+    "__EMPTY": "Dr. Mohit Kumar Singh",
+    "__EMPTY_1": "Assistant Professor",
+    "__EMPTY_2": "Smart Navigation Stick with Object Identification and Scene Narration for Visually Impaired Person",
+    "__EMPTY_3": "Designed to address the specific challenges faced by visually impaired individuals while enhancing their independence and safety. ECE students will design the hardware having different kind of sensors and CSE students can embed smartness in the stick with AI/ML.",
+    "__EMPTY_4": "Dr. Piyush Charan",
+    "__EMPTY_5": "1. Anurag Gupta, Director- STEMROBO Technologies.  2. Gajendra Pratap Singh, Director- Sysro Infotech.  ",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "NA",
+    "__EMPTY_8": "ECE, CST ",
+    "__EMPTY_9": "Prototype, Patent",
+    "__EMPTY_10": "SDG 3 (Good Health and Well-Being) and SDG 9 (Industry, Innovation and Infrastructure)",
+    "__EMPTY_11": "A significant advancement in assistive technology for the visually impaired person. By integrating sensors, real-time data processing, and connectivity features, this smart device enhances mobility and safety for users."
+  }
+]

@@ -1,0 +1,124 @@
+Name of Faculty,Faculty_ID,Faculty_Password
+Dr. Charu Jain,FAC001,aB5fG9h2
+Dr. Varun,FAC002,kL8pQ3r7
+Dr. Deepti Dabas,FAC003,zX4cE6v1
+Dr. Meenakshi Gupta,FAC004,nB9mJ2k5
+Dr. Sakshi,FAC005,fG7hL3p8
+Dr. Shilpa,FAC006,qW2eR5tY
+Dr. Nishu,FAC007,uI1oP4a6
+Dr. Isha,FAC008,sD8fG9hJ
+Dr. Deepti Kohli,FAC009,kL5mN2bV
+Dr. Geeta,FAC010,cX3zS1dF
+Prof. (Dr.) Parul Jhajharia,FAC011,gH6jK4lP
+Dr. Anupama,FAC012,qA9sW8eR
+Dr. Poonam,FAC013,tY2uI5oP
+Dr. Priyanka Jawa,FAC014,zX7cV4bN
+Dr. Ashish Kumar,FAC015,mJ1kL8pQ
+Dr. Barun Kumar,FAC016,rT5yU3iO
+Dr. Abhishek Kumar,FAC017,aP6oI2uY
+Dr. Neha Tiwari,FAC018,sD4fG7hJ
+Dr. Tapasya,FAC019,kL1mN9bV
+Dr. Ankit,FAC020,cX8zS6dF
+Mr. Pankaj,FAC021,gH3jK1lP
+Dr. Ruchi Gupta,FAC022,qA7sW5eR
+Dr. Supriya,FAC023,tY4uI2oP
+Ms. Vandana Bhat,FAC024,zX1cV8bN
+Prof. Rashima Vaid,FAC025,mJ6kL5pQ
+Dr. Anita,FAC026,rT2yU9iO
+Dr. Sonia,FAC027,aP3oI7uY
+Dr. Monika Sharma,FAC028,sD1fG4hJ
+Ms. Savita Sharma,FAC029,kL8mN2bV
+Dr. Kiran,FAC030,cX5zS9dF
+Dr. Neha Taneja,FAC031,gH2jK7lP
+Dr. Prerna,FAC032,qA4sW1eR
+Dr. Ritu,FAC033,tY8uI5oP
+Dr. S K Singh,FAC034,zX6cV2bN
+Dr. Anuj Kumar,FAC035,mJ3kL9pQ
+Dr. Arvind Kumar,FAC036,rT7yU4iO
+Dr. Pinki,FAC037,aP1oI8uY
+Dr. Pushpa,FAC038,sD5fG2hJ
+Dr. Ram Singh,FAC039,kL9mN6bV
+Dr. Indu,FAC040,cX2zS3dF
+Dr. Neha,FAC041,gH7jK1lP
+Dr. Meenakshi,FAC042,qA3sW8eR
+Dr. Sonal,FAC043,tY6uI4oP
+Dr. Amita,FAC044,zX9cV1bN
+Ms. Neha,FAC045,mJ5kL2pQ
+Dr. Rakesh,FAC046,rT1yU6iO
+Dr. Hanu,FAC047,aP8oI3uY
+Dr. Ganga,FAC048,sD2fG7hJ
+Dr. Reena,FAC049,kL6mN4bV
+Dr. Anjali,FAC050,cX1zS8dF
+Dr. Ritu,FAC051,gH4jK5lP
+Prof. (Dr.) Yogita Sharma,FAC052,qA2sW9eR
+Dr. Ritu,FAC053,tY7uI1oP
+Dr. S. K. Shukla,FAC054,zX4cV5bN
+Dr. Anjali,FAC055,mJ8kL1pQ
+Dr. Pradeep Kr. Mouria,FAC056,rT5yU2iO
+Dr. Rajeev,FAC057,aP9oI6uY
+Dr. Amit,FAC058,sD3fG8hJ
+Dr. Sachin,FAC059,kL7mN5bV
+Dr. Reena,FAC060,cX9zS2dF
+Dr. Anamika,FAC061,gH1jK6lP
+Dr. Nidhi,FAC062,qA5sW3eR
+Dr. Rashmi,FAC063,tY9uI7oP
+Dr. Priyanka,FAC064,zX2cV4bN
+Dr. Saroj,FAC065,mJ7kL3pQ
+Dr. Shweta Goel,FAC066,rT3yU8iO
+Dr. Pooja Dutta,FAC067,aP6oI4uY
+Dr. Manisha,FAC068,sD8fG1hJ
+Dr. Leena,FAC069,kL4mN9bV
+Dr. Divya,FAC070,cX7zS5dF
+Dr. Anshu,FAC071,gH9jK2lP
+Dr. V.K. Singh,FAC072,qA1sW7eR
+Dr. Ajay,FAC073,tY5uI3oP
+Dr. Mridula,FAC074,zX8cV6bN
+Dr. Neerja,FAC075,mJ2kL4pQ
+Dr. Deepa,FAC076,rT6yU1iO
+Dr. Anubha,FAC077,aP4oI9uY
+Dr. Preeti,FAC078,sD7fG5hJ
+Dr. Nitesh,FAC079,kL2mN1bV
+Dr. Pooja,FAC080,cX5zS8dF
+Dr. Monika,FAC081,gH3jK4lP
+Dr. Archana,FAC082,qA8sW2eR
+Dr. Richa,FAC083,tY1uI6oP
+Dr. Shaveta,FAC084,zX5cV9bN
+Dr. Anupama,FAC085,mJ9kL7pQ
+Dr. Priyanka,FAC086,rT2yU5iO
+Dr. Aarti,FAC087,aP7oI1uY
+Ms. Babita Yadav,FAC088,sD4fG8hJ
+Dr. Neha,FAC089,kL8mN3bV
+Dr. A.K. Gupta,FAC090,cZ1xS7dF
+Dr. N.P. Singh,FAC091,gH5jK9lP
+Dr. B.M. Singh,FAC092,qA2sW6eR
+Dr. S.K. Sinha,FAC093,tY4uI8oP
+Dr. S.K. Jha,FAC094,zX7cV3bN
+Dr. M.K. Jha,FAC095,mJ1kL6pQ
+Dr. P.K. Jha,FAC096,rT9yU2iO
+Dr. R.K. Jha,FAC097,aP5oI7uY
+Dr. A.K. Jha,FAC098,sD2fG4hJ
+Dr. B.K. Jha,FAC099,kL6mN8bV
+Dr. C.K. Jha,FAC100,cX3zS5dF
+Dr. D.K. Jha,FAC101,gH7jK2lP
+Dr. E.K. Jha,FAC102,qA4sW8eR
+Dr. F.K. Jha,FAC103,tY1uI5oP
+Dr. G.K. Jha,FAC104,zX8cV2bN
+Dr. H.K. Jha,FAC105,mJ5kL9pQ
+Dr. I.K. Jha,FAC106,rT2yU6iO
+Dr. J.K. Jha,FAC107,aP9oI3uY
+Dr. K.K. Jha,FAC108,sD6fG1hJ
+Dr. L.K. Jha,FAC109,kL3mN7bV
+Dr. M.K. Jha,FAC110,cX1zS4dF
+Dr. N.K. Jha,FAC111,gH8jK1lP
+Dr. O.K. Jha,FAC112,qA5sW9eR
+Dr. P.K. Jha,FAC113,tY2uI7oP
+Dr. Q.K. Jha,FAC114,zX6cV4bN
+Dr. R.K. Jha,FAC115,mJ3kL1pQ
+Dr. S.K. Jha,FAC116,rT7yU8iO
+Dr. T.K. Jha,FAC117,aP1oI5uY
+Dr. U.K. Jha,FAC118,sD8fG2hJ
+Dr. V.K. Jha,FAC119,kL5mN9bV
+Dr. W.K. Jha,FAC120,cX2zS6dF
+Dr. X.K. Jha,FAC121,gH6jK3lP
+Dr. Y.K. Jha,FAC122,qA9sW1eR
+Dr. Z.K. Jha,FAC123,tY3uI8oP

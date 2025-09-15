@@ -1,0 +1,145 @@
+[
+  {
+    "__EMPTY_5": "At least 1 out of Industry mentor or Alumni Mentor or Faculty Co-Mentor from outside MRU is required."
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": "Sl. No",
+    "__EMPTY": "Name of Faculty",
+    "__EMPTY_1": "Designation",
+    "__EMPTY_2": "Problem Statement",
+    "__EMPTY_3": "IDPaspectInproblemStatement",
+    "__EMPTY_4": "facultyComentorFromMRU",
+    "__EMPTY_5": "industryMentor",
+    "__EMPTY_6": "alumniMentor",
+    "__EMPTY_7": "facultyComentorOutsideMRU",
+    "__EMPTY_8": "DisciplinesInvovled",
+    "__EMPTY_9": "ExpectedOutcome",
+    "__EMPTY_10": "SDGs",
+    "__EMPTY_11": "societalOrIndustrialImpact"
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 1,
+    "__EMPTY": "Prof. Rashima Vaid",
+    "__EMPTY_1": "Dean-Edu. & Hum."
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 2,
+    "__EMPTY": "Prof. (Dr.) Rashee Singh",
+    "__EMPTY_1": "Professor \r\nHoD-Edu. & Hum.",
+    "__EMPTY_2": "EduMinds: A Multidisciplinary Research Inquiry into Ethical, Technological, and Managerial Solutions for Promoting Student Well-being in Schools (Ages 10–14)",
+    "__EMPTY_3": "While educational interventions exist, there is an urgent need to design holistic, sustainable, and ethical solutions that integrate mental well-being practices into the fabric of everyday school life. This project, EduMinds, aims to address this gap through an interdisciplinary collaboration involving Education, Psychology, Computer Science Engineering, Law, and Management.",
+    "__EMPTY_4": "Dr Tina Hasija",
+    "__EMPTY_5": " Ms Reshma Bhown",
+    "__EMPTY_6": "Ms Avishi",
+    "__EMPTY_7": " Ms Reshma Bhown",
+    "__EMPTY_8": "Education, CST, Law, Management",
+    "__EMPTY_9": "Research paper",
+    "__EMPTY_10": "SDG 3",
+    "__EMPTY_11": "Welfare of adolescents"
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 3,
+    "__EMPTY": "Prof. (Dr.) Geeta Thakur",
+    "__EMPTY_1": "Professor\r\nDean-Student Welfare",
+    "__EMPTY_2": "Designing an App/Portal to Monitor and Promote Electricity Saving on Campus\"",
+    "__EMPTY_3": "This project integrates Computer Science/IT, Electrical Engineering, and Environmental Science. IT students will develop the app or portal for real-time electricity monitoring. Electrical Engineering students will analyze power usage, recommend technical solutions, and support sensor integration. Environmental Science students will assess energy impact, promote sustainability practices, and align the project with climate goals like SDG 7 and SDG 13",
+    "__EMPTY_4": "Dr Manpreet Kaur",
+    "__EMPTY_5": "Dr. Udaipratap ",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "Dr. Deepa Bura, CSE, MRIIRS",
+    "__EMPTY_8": "CST, ECE, Chemistry",
+    "__EMPTY_9": "patent Research paper , Portal ",
+    "__EMPTY_10": "SDG 7",
+    "__EMPTY_11": " other institutions of MR will follow it"
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 4,
+    "__EMPTY": "Dr. Akhilesh Dwivedi ",
+    "__EMPTY_1": "Assoc. Prof.",
+    "__EMPTY_2": "Designing an e-Psychometric Profile App",
+    "__EMPTY_3": "The e-Psychometric Profiling App is a digital tool designed\r\n to assess an individual's cognitive abilities, personality \r\ntraits, emotional intelligence, and behavioral tendencies \r\nthrough standardized psychological format. The CSE students\r\n will create this app to provide the solution for students to \r\nunderstand their strengths, weaknesses, and compatibility\r\n with various roles. The app is widely applied in educational\r\n settings for student guidance, in corporate environments \r\nfor recruitment and employee development, and in clinical\r\n or counseling contexts for mental health assessment and\r\n personal growth planning. The project will address to SDG-3, SDG-4 & SDG-9. ",
+    "__EMPTY_4": "1. Prof Prinima Gupta, CST\r\n2. Mr MK Kaul, Management\r\n3. Dr A Jaymani, Chemistry",
+    "__EMPTY_5": "NA",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "NA",
+    "__EMPTY_8": "CST",
+    "__EMPTY_9": "e-Psychometric Profile App",
+    "__EMPTY_10": "SDG-3",
+    "__EMPTY_11": " Students' Welfare "
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 6,
+    "__EMPTY": "Dr. Arvinder Kaur",
+    "__EMPTY_1": "Asstt. Prof."
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 8,
+    "__EMPTY": "Dr. Eram Aziz",
+    "__EMPTY_1": "Asstt. Prof."
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 9,
+    "__EMPTY": "Ms. Meenal Rawat",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_2": "To investigate on how the SAMR framework might be used to integrate educational technology into higher education classrooms through multidisciplinary approaches in order to foster transformative teaching methods and better student engagement and results.",
+    "__EMPTY_3": "In order to successfully integrate educational technology in higher education utilizing the SAMR framework, this project is intrinsically interdisciplinary, leveraging knowledge from different fields. While instructional design and learning sciences offer ways for developing successful, tech-enhanced learning experiences, education and pedagogy give the framework for integrating technology with good teaching practices. While educational psychology offers insights into student motivation and cognitive processes in digital contexts, information technology guarantees the usability and scalability of digital technologies. Sociology and equity studies deal with issues of access, inclusion, and the digital divide, whereas communication and media studies improve digital literacy and involvement. Lastly, the impact of technology integration throughout SAMR levels is measured with the aid of assessment and evaluation disciplines.  Together, these disciplines support a holistic, sustainable, and equitable approach to transforming teaching and learning in higher education.",
+    "__EMPTY_4": "Dr. Eram Aziz",
+    "__EMPTY_5": "NA",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "Dr. Bushra Sumaiya, Assistant Professor, Faculty of Education, Integral University, Lucknow, India",
+    "__EMPTY_8": "School of Engineering, School of Law, School of Education and Humanities, School of Management and Commerce",
+    "__EMPTY_9": "Research papers, Vlog/blog, Newspaper Article, Innovation",
+    "__EMPTY_10": "SDG 4 – Quality Education: Enhances teaching and learning quality through transformative technology integration in higher education.",
+    "__EMPTY_11": "Through the SAMR framework, this initiative is anticipated to promote deeper, more meaningful integration of educational technology, hence improving the quality and efficacy of higher education. It will benefit society by creating more inclusive and equitable learning settings, closing the digital gap, and encouraging lifelong learning skills that are necessary for today's workforce. By bringing educational outcomes into line with changing industrial demands, it will assist business in producing graduates with more digital capabilities and flexibility. The project will advance research on pedagogical innovation and digital transformation in higher education by providing multidisciplinary insights and useful models for technology integration."
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 10,
+    "__EMPTY": "Dr. Mira Mishra",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_2": "School in a Box: Designing Portable Learning Kits” ",
+    "__EMPTY_3": " This IDP focuses on creating low-cost, mobile educational toolkits to support the learning needs of underprivileged children. Combining concepts from Science, Math, Art, and Design & Technology, students will work together to design compact, easy-to-carry kits filled with educational games, worksheets, and hands-on activities. These kits will be made using recycled or easily available materials to keep them sustainable and affordable. The project aims to promote inclusive education by ensuring that learning can reach children even in areas with limited resources. Through this initiative, students will not only apply their academic knowledge creatively but also develop empathy, problem-solving skills, and an understanding of real-world challenges in achieving quality education for all.",
+    "__EMPTY_4": "Mr. Sharv Datt Anand ",
+    "__EMPTY_5": "Dr. Abha Sharma ",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "Dr. Pooja Verma ",
+    "__EMPTY_8": "School of Engineering, School of Education and Humanities, School of  Sciences",
+    "__EMPTY_9": "Research papers, Vlog/blog, Newspaper Article, Innovation/ Tool kit",
+    "__EMPTY_10": "Quality Education: Enhances Teaching learning by developing educational teaching aids using no -cost concept. ",
+    "__EMPTY_11": "The project aims to promote inclusive education by ensuring that learning can reach children even in areas with limited resources. Through this initiative, students will not only apply their academic knowledge creatively but also develop empathy, problem-solving skills, and an understanding of real-world challenges in achieving quality education for all."
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 11,
+    "__EMPTY": "Dr. Pooja Parmar",
+    "__EMPTY_10": "SDG 5 – Gender Equality: Promotes equal access and participation in digital learning environments for all genders."
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 12,
+    "__EMPTY": "Dr. Savita Sharma",
+    "__EMPTY_1": "Assoc. Prof.",
+    "__EMPTY_2": "To examine how cognitive and emotional factors influence financial decisions and mental well-being.",
+    "__EMPTY_3": "This project delves into the fascinating intersection of behavioral finance and mental well-being, proposing a holistic approach to financial decision-making. It acknowledges that traditional financial models often overlook the powerful influence of human psychology, leading to suboptimal choices and heightened stress. By drawing upon principles from behavioral finance, such as cognitive biases, heuristics, and emotional influences, the project seeks to understand why individuals deviate from rational financial behavior.\r\n\r\nCrucially, it integrates these financial insights with psychological wisdom, recognizing the bidirectional relationship between financial health and mental state. The aim is to move beyond simply identifying problematic behaviors and instead develop actionable, behavior-based interventions. These interventions are designed not only to guide individuals towards more prudent financial decisions but also, critically, to alleviate the associated mental burden of financial stress. Ultimately, this interdisciplinary endeavor promises a pathway to improved financial literacy, reduced anxiety, and enhanced overall mental well-being.",
+    "__EMPTY_4": "Dr. Lakshya Malhotra"
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 13,
+    "__EMPTY": "Mr. Sharv Datt Anand",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_10": "SDG 9 – Industry, Innovation, and Infrastructure: Encourages innovative use of educational technologies and development of digital learning infrastructure."
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 14,
+    "__EMPTY": "Dr. Lakshya  Malhotra",
+    "__EMPTY_1": "Asstt. Prof."
+  },
+  {
+    "SCHOOL OF EDUCATION AND HUMANITIES": 15,
+    "__EMPTY": "Ms. Aishwarya Sharma",
+    "__EMPTY_1": "Assistant Professor",
+    "__EMPTY_2": "Designing Comprehensive Educational Policies",
+    "__EMPTY_3": "This research will enable learners to understand the intricacies of educational policy-making processes. It will focus on several key factors, including social, political, and economic factors, that influence policy design. Together, we will read and discuss sections of NEP 2020 and analyze it. ",
+    "__EMPTY_4": "Prof. Rashee Singh",
+    "__EMPTY_9": "Newspaper article, research paper",
+    "__EMPTY_10": "SDG 4- Quality Education- Comprehensive policies for better education system ",
+    "__EMPTY_11": "Knowing how educational policies are designed is crucial for the learners as it helps uncover the power dynamics at the societal level. The questions include: who holds power, whose interests are being prioritized, what is being (un)said, and how decisions affect educational systems and society at large. Outcomes: responsibel and informed educators and citizens. "
+  }
+]

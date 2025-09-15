@@ -1,0 +1,164 @@
+[
+  {
+    "name": "BACHELOR OF TECHNOLOGY ELECTRONICS & COMMUNICATION ENGINEERING",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    }
+  },
+  {
+    "name": "BACHELOR OF TECHNOLOGY ELECTRONICS & COMMUNICATION ENGINEERING",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    }
+  },
+  {
+    "name": "BACHELOR OF TECHNOLOGY COMPUTER SCIENCE & ENGINEERING",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    }
+  },
+  {
+    "name": "BACHELOR OF TECHNOLOGY COMPUTER SCIENCE & ENGINEERING",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    }
+  },
+  {
+    "name": "BACHELOR OF TECHNOLOGY COMPUTER SCIENCE & ENGINEERING",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    }
+  },
+  {
+    "name": "BACHELOR OF TECHNOLOGY COMPUTER SCIENCE & ENGINEERING",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    }
+  },
+  {
+    "name": "BACHELOR OF TECHNOLOGY ROBOTICS & AI",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    }
+  },
+  {
+    "name": "BACHELOR OF TECHNOLOGY MECHANICAL ENGINEERING",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    }
+  },
+  {
+    "name": "NIL",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3f"
+    }
+  },
+  {
+    "name": "NIL",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    }
+  },
+  {
+    "name": "NIL",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    },
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    }
+  },
+  {
+    "name": "BACHELOR OF ARTS - BACHELOR OF EDUCATION - INTEGRATED",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    },
+    "departmentId": null
+  },
+  {
+    "name": "BACHELOR OF SCIENCES - BACHELOR OF EDUCATION - INTEGRATED",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    },
+    "departmentId": null
+  },
+  {
+    "name": "BACHELOR OF BUSINESS ADMINISTRATION",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    },
+    "departmentId": null
+  },
+  {
+    "name": "BACHELOR OF BUSINESS ADMINISTRATION",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    },
+    "departmentId": null
+  },
+  {
+    "name": "BACHELOR OF BUSINESS ADMINISTRATION",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    },
+    "departmentId": null
+  },
+  {
+    "name": "BACHELOR OF BUSINESS ADMINISTRATION",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    },
+    "departmentId": null
+  },
+  {
+    "name": "BACHELOR OF BUSINESS ADMINISTRATION",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    },
+    "departmentId": null
+  },
+  {
+    "name": "BACHELOR OF ARTS - BACHELOR OF LAW - INTEGRATED",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    },
+    "departmentId": null
+  },
+  {
+    "name": "BACHELOR OF BUSINESS ADMINISTRATION - BACHELOR OF LAW - INTEGRATED",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    },
+    "departmentId": null
+  }
+]

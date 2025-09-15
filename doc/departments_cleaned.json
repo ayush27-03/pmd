@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ELECTRONICS & COMMUNICATION ENGINEERING",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "name": "COMPUTER SCIENCE & TECHNOLOGY",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "name": "MECHANICAL ENGINEERING",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "name": "Physics",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "name": "Chemistry",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "name": "Mathematics",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "name": "NA",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  }
+]

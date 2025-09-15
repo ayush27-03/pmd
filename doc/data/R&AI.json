@@ -1,0 +1,71 @@
+[
+  {
+    "DEPARTMENT OF ROBOTICS & AI": "Sl . No.",
+    "__EMPTY": "Name of Faculty",
+    "__EMPTY_1": "Designation",
+    "__EMPTY_2": "Problem Statement",
+    "__EMPTY_3": "IDPaspectInproblemStatement",
+    "__EMPTY_4": "facultyComentorFromMRU",
+    "__EMPTY_5": "industryMentor",
+    "__EMPTY_6": "alumniMentor",
+    "__EMPTY_7": "facultyComentorOutsideMRU",
+    "__EMPTY_8": "DisciplinesInvovled",
+    "__EMPTY_9": "ExpectedOutcome",
+    "__EMPTY_10": "SDGs",
+    "__EMPTY_11": "societalOrIndustrialImpact"
+  },
+  {
+    "DEPARTMENT OF ROBOTICS & AI": 1,
+    "__EMPTY": "Dr. Priyanka Bansal",
+    "__EMPTY_1": "HoD, R&AI\r\nProfessor"
+  },
+  {
+    "DEPARTMENT OF ROBOTICS & AI": 2,
+    "__EMPTY": "Dr. J. P. Sharma",
+    "__EMPTY_1": "Assoc. Prof.\r\nDy. Director-IIC",
+    "__EMPTY_2": "Study of Failure phenomena of hydrodynamic bearing through simulation on Ansys.\r\n",
+    "__EMPTY_3": "For optimizing the perfomance, faculty from electronics department is required",
+    "__EMPTY_4": "Dr. Piyush Mahendru\r\nDr. Vijay Gill",
+    "__EMPTY_5": "Mr. Siddhart Borkataky",
+    "__EMPTY_6": "NA",
+    "__EMPTY_7": "NA",
+    "__EMPTY_8": "Mechanical & Electronics",
+    "__EMPTY_9": "Research Paper, patent",
+    "__EMPTY_10": "SDG 7, 9",
+    "__EMPTY_11": "Power consumption is reduced due to minimal contact between stationary and rotating compnents."
+  },
+  {
+    "__EMPTY_2": "Optimization of VAWT efficieny through simulation study",
+    "__EMPTY_3": "In this project, optimization of Coeffiecint of Pressure & performance improvemnet based on TSR for a sarvonious turbine. During its fabrication, knowledge of structure & Electronics is required",
+    "__EMPTY_4": "Dr. Piyush Mahendru.\r\nMr. Vijay Gill",
+    "__EMPTY_5": "NA",
+    "__EMPTY_6": "Mr. Ayush ",
+    "__EMPTY_7": "NA",
+    "__EMPTY_8": "Mechanical & Electronics",
+    "__EMPTY_9": "Research paper, Patent & Startup",
+    "__EMPTY_10": "7,11,,13",
+    "__EMPTY_11": "efficient wind turbine for city application"
+  },
+  {
+    "DEPARTMENT OF ROBOTICS & AI": 3,
+    "__EMPTY": "Dr. Piyush Charan",
+    "__EMPTY_1": "Assoc. Prof."
+  },
+  {
+    "DEPARTMENT OF ROBOTICS & AI": 4,
+    "__EMPTY": "Dr. Monika Garg",
+    "__EMPTY_1": "Assoc. Prof."
+  },
+  {
+    "DEPARTMENT OF ROBOTICS & AI": 5,
+    "__EMPTY": "Dr. Gianender Kajal",
+    "__EMPTY_1": "Asstt. Prof."
+  },
+  {
+    "DEPARTMENT OF ROBOTICS & AI": 6,
+    "__EMPTY": "Dr. Awwab Mohammad",
+    "__EMPTY_1": "Asstt. Prof.",
+    "__EMPTY_2": "AI-Powered Smart Waste Management System for Urban Localities",
+    "__EMPTY_3": "Urban waste management remains a persistent challenge due to inefficiencies in waste categorization, collection logistics, and environmental impact monitoring. This project seeks to address this issue by designing an AI-driven smart waste management system that integrates computer vision, IoT technologies, environmental sustainability principles, and economic feasibility models. This is inherently an interdisciplinary problem, requiring collaboration across:\r\n\r\nComputer Science: to develop machine learning models for real-time waste classification and predictive analytics for collection route optimization.\r\nElectronics/IoT: to design and deploy sensor networks for tracking bin fill levels and environmental conditions (e.g., temperature, odor, gas emissions).\r\nEnvironmental Science: to guide the system design towards environmentally sustainable practices and compliance with urban waste disposal regulations.\r\nBusiness/Management: to analyze operational viability, cost-benefit structures, and propose models for municipal partnerships and smart city integration."
+  }
+]

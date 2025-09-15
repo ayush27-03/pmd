@@ -1,0 +1,116 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "title",
+      "primaryFacultyMentorId"
+    ],
+    "properties": {
+      "title": {
+        "bsonType": "string",
+        "description": "Short problem statement title"
+      },
+      "description": {
+        "bsonType": "string",
+        "description": "Detailed explanation of interdisciplinary aspects"
+      },
+      "primaryFacultyMentorId": {
+        "bsonType": "objectId",
+        "description": "Reference to main faculty in 'faculties' collection"
+      },
+      "designation": {
+        "bsonType": "string",
+        "description": "Designation of primary faculty"
+      },
+      "facultyCoMentorsMRU": {
+        "bsonType": "array",
+        "description": "Faculty co-mentors from MRU",
+        "items": {
+          "bsonType": "object",
+          "properties": {
+            "name": {
+              "bsonType": "string"
+            },
+            "facultyId": {
+              "bsonType": "objectId",
+              "description": "Reference to faculties collection if applicable"
+            }
+          }
+        },
+        "minItems": 1
+      },
+      "industryMentors": {
+        "bsonType": "array",
+        "description": "Mentors from the industry.",
+        "items": {
+          "bsonType": "string"
+        }
+      },
+      "alumniMentors": {
+        "bsonType": "array",
+        "description": "Alumni mentors.",
+        "items": {
+          "bsonType": "string"
+        }
+      },
+      "externalFacultyMentors": {
+        "bsonType": "array",
+        "description": "Faculty co-mentors from outside MRU.",
+        "items": {
+          "bsonType": "string"
+        }
+      },
+      "disciplinesInvolved": {
+        "bsonType": "array",
+        "description": "Departments/Schools for which the project is suitable.",
+        "items": {
+          "bsonType": "string"
+        }
+      },
+      "expectedOutcomes": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "string",
+          "enum": [
+            "Research paper",
+            "Copyright",
+            "Prototype",
+            "Patent",
+            "Product",
+            "Startup",
+            "Innovation",
+            "Newspaper Article",
+            "Vlog/Blog",
+            "Other"
+          ]
+        }
+      },
+      "sdgImpact": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "int"
+        }
+      },
+      "impactStatement": {
+        "bsonType": "string",
+        "description": "Expected impact on society, industry, or knowledge."
+      },
+      "status": {
+        "enum": [
+          "Open",
+          "In Progress",
+          "Completed",
+          "Archived"
+        ],
+        "description": "Current status of the project."
+      },
+      "appliedStudentIds": {
+        "bsonType": "array",
+        "description": "An array of student ObjectIds who have applied.",
+        "items": {
+          "bsonType": "objectId"
+        }
+      }
+    }
+  }
+}

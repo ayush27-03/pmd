@@ -1,0 +1,1820 @@
+[
+  {
+    "role": "faculty",
+    "facultyId": "FAC001",
+    "name": "Prof. (Dr.) Jyotsna Pandit",
+    "designation": "Professor",
+    "password": "$2b$10$CONhp0WGAqe0koy1NN0rCO4RDs34Hz9hRmKmSTZWPGzFIuvH2aZHK",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC002",
+    "name": "Prof. (Dr.)  Arpit Sand",
+    "designation": "Professor.",
+    "password": "$2b$10$3wJs3qIWjPSP4dx3O.uG4OQYtVrOOTGs8ub5Ltu.WwKwmMgqp6vri",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC003",
+    "name": "Prof. (Dr.) S. K. Shukla",
+    "designation": "Professor",
+    "password": "$2b$10$t6Na2lBFYZFkt0cdMZte3ug2GvU.j.RyLCtpdd.IhWrJhgy1QZKSa",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC004",
+    "name": "Prof. (Dr.) Meena Kapahi",
+    "designation": "Professor, Director - International Relations",
+    "password": "$2b$10$oLktJhu33rlCjoRxgDScOuQ6ZgTXIqO4fKaa5nh5399FdHnGGQBBy",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC005",
+    "name": "Dr. Ekta Rawat",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$23fCHYxZWqUCeVV/BJBe..unbm5KsT5Cfc/7ck5O2fWXquwswiz1C",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC006",
+    "name": "Dr. A. Jayamani",
+    "designation": "Asst. Prof.",
+    "password": "$2b$10$f2moChMiUVry/9AeFVFroODEMEyWD2V7ismWarXQeanZKuE8bOQi6",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC007",
+    "name": "Dr. Priti Gupta",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$NTeQtthc1tOImBKp86fI4OkjBAWJ3EAeutc9KZdSORVsG661sZgrq",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC008",
+    "name": "Dr. Roopa Rani",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$GIk7Ol6vO3EveMjtbXVAdO6lkMW3QGdJbAzkVZaktu1e3iWOIv8j.",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC009",
+    "name": "Dr. Shilpa Sharma",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$q.DD8JjxCkAvyOncP7bVUeoaIh99co09.HWvR8/G0WcwyIac8nJNu",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC010",
+    "name": "Dr. Vinayak V Pathak",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$6DVEnQLaZ.SN8xTYjTbPGucCF/euOdxr.1vRnzs8b/KjtgrWOutEy",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b40"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC011",
+    "name": "Prof (Dr.) Sugandha Singh",
+    "designation": "Professor",
+    "password": "$2b$10$iShvre1S25nZV8qW7qIjZ.PEp9mEdye/lhCazzYUADWJkS9rm3oY.",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC012",
+    "name": "Prof. (Dr.) Sachin Lakra",
+    "designation": "Professor,",
+    "password": "$2b$10$4cVApv52sLTDn74ZPpTMxexRP9q3Oqmw9Nr2eY5Kd9WKuMeoV.OXu",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC013",
+    "name": "Prof. (Dr.) Manpreet Kaur",
+    "designation": "Professor,CST",
+    "password": "$2b$10$qv/RayLPYh864VGnWqmiIuiEb0Falbn02DFD0aeGE8o5bwUObNH/2",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC014",
+    "name": "Dr. Chandni Magoo",
+    "designation": "Asstt. Prof., Assoc.HoD-CST",
+    "password": "$2b$10$puaPWv5ABcDJwGPSwhqQ9ONKEmP3DBKZ5NREj7g.Gp5h7dyOKO/O.",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC015",
+    "name": "Prof. (Dr.) Jyoti Pruthi",
+    "designation": "Prof., Admission Chairperson",
+    "password": "$2b$10$4J5ql911OqKTl30DlKsyt.20Evr9I5p0M4ljLpoA1DWMZjogO61Oi",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC016",
+    "name": "Prof. (Dr.) Parneeta Dhaliwal",
+    "designation": "Professor, Director-IIC",
+    "password": "$2b$10$8qIC/1DXE2X2Z7vtbVP2UeFRhuIhYPhSD1NDurpcNDCDKBPexWP22",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC017",
+    "name": "Prof. (Dr.) Prinima Gupta",
+    "designation": "Prof., Director-Ph.D Prog.",
+    "password": "$2b$10$MbyatVozVgx6DjgRYzIMi./fBoPe.h6a379xZAOcXbF1ZyVZYZlWC",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC018",
+    "name": "Prof. (Dr.) Mrinal Pandey",
+    "designation": "Professor",
+    "password": "$2b$10$PPgOk9hIeSCpTMLvljmn/ukmT0VB86UjBF/6wnK4fPHIs0JCns2.i",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC019",
+    "name": "Dr. Abhishek Saxena",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$Mbraxg40TviSqiub7dk3EO7Xy3g.C.bcbH3WowcWD/3rZGJVe2fG2",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC020",
+    "name": "Mr. Agha Imran Hussain",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$udZ3N5B6QcrMI8Rm7RfuEe4oZvw17bpdmUgnSeTgsHdQLBNxu2SDO",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC021",
+    "name": "Mr. Ankur Kr. Aggarwal",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$Pk8PTTWTn7lqJGFRC2kmZ.8O9L5T/pruGs6WLxXYCwtsnRw8bpXte",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC022",
+    "name": "Mr. Anup Singh",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$CZmAM1wOhdfaaKTzCSoyCeJGHpAj6aoQVXyHX2MIV3k0SxibMeTae",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC023",
+    "name": "Ms. Anu Priya Sharma",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$gUWsu0vc.djFSRYafu0BmexM9za9Wvlqt0t4Riq3HelLg9OPvWocm",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC024",
+    "name": "Dr. Deepti Thakral",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$aMk5DkY6FxjonxA40pPWB.IDw4hO7R.HBLImjO2wefT7.C2APFkqS",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC025",
+    "name": "Ms. Deepanshi Gupta",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$v2Fb1QGWYc9KrEDLtqnjgeh.LHjI1jNjaUfP52Wj5zkH1Sz1iHfkm",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC026",
+    "name": "Ms. Esha Khanna",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$4eRM7gbQZ9AH8OViW4vU8eBht5CYfOvNkUovKTuuayPfSlOoSXHOO",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC027",
+    "name": "Dr. K. Deepa",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$lTI8pSYJbVzWlHSegfntc.qBp3XO4y2dXQskG9OmDwt6BFK8PH8J6",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC028",
+    "name": "Dr. Gunjan Chandwani",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$PAeh3wEO.vegjtKzpEsrP.jPTzhbbPbk7k6mYZcPXO3N8WPGOsctu",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC029",
+    "name": "Ms. Jyoti Nanwal",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$D/HFPVvll2x7mdfkinpsk.WQ77R6zXB/4yO2AUe7dMxZok6R0Ol9W",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC030",
+    "name": "Dr. Mamta Arora",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$73ogndnL7TR2e23IZyOLJu5azun/qMi7U7ZX33EVlMqhaBj8ZS0b6",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC031",
+    "name": "Dr. Manoj Kumar",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$jws8t8is8xWSxa3pNYdbVuUCKE.F19FlYJw3/KcwjML3lnjTxk7ja",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC032",
+    "name": "Dr. Meena Chaudhary",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$9qog2ca4DG1EtrizuvSOKecf.carkhvzGw6znLolJ6V8OJh4AyoBK",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC033",
+    "name": "Dr. Monika Garg",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$.AqAt.NWCwUpZJZOr3H57.YfJZK4Wt6Fh8ei.9P3R1cx4WhdtStKy",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC034",
+    "name": "Mr. Narender Gautam",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$u3hYn8ZMVThK9JCY0PUZReCdJC/shZiASWJQ3a2AXK5/vpvggO.ZK",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC035",
+    "name": "Dr. Neelu Chaudhary",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$li8tXTq4itkkm95qnIzwDe0/vAw3Nabque8cwq0Pw44Tq9AwC7B5q",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC036",
+    "name": "Dr. Nitika Munjal",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$vzkwgfR.h/PIbCsmq/uqqesQyC8NPtH0kyFupbJPsY1j0mTqW9W1e",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC037",
+    "name": "Mr. Ram Chatterjee",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$QCTZSvhR2PJdLbkasCRbCOG4Z.r4/s.6G8w8J4LdAwXPD9RyKKu6y",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC038",
+    "name": "Dr. Ranjna Jain",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$M/C/d2fR4OjfIvz0flXbHOie20M5XXJ5sHShiNbQFzndAeXQe5tT6",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC039",
+    "name": "Dr. Sanjay Singh",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$SPA48ZgdQXAh4/TIjcN2FuRMH0AANeAqjQLu4i/NdWCadLyMvQKzm",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC040",
+    "name": "Dr. Shalu",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$xhZcJHWTNYjZYteeVP7MGOFcyHfkw7lQG0NKgFMbnauCaZFVLYc/K",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC041",
+    "name": "Ms. Tamanna Sachdeva",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$vv5BhtrNe95CCmGHeuJv9eIUkEJ/Ks5YDLzvyUL/Im2cdVzGnWtVi",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC042",
+    "name": "Dr. Urmila Pilania",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$FKbU/UOWQ7Ng/u85FwHbdOoKhbmsRM5AXpIo7HEblhduUQjno1NCi",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC043",
+    "name": "Dr. Arnika",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$7z5bvGkoBo2/ByIfEK6yQ.ZR4/liXjnqo5hvN2gDzg4TkY4xUtwje",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC044",
+    "name": "Ms. Pooja Ahuja",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$pmKgLBJtbRh31feHbmGBn.1LQLCYFtcCtuqCNqXODkQC8GMd188Je",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC045",
+    "name": "Ms. Ashima Garg",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$fdUM4xrCJcj5NS.dBbEd8.YJ4YFKf94OGVyHTOoxPMHSSHoaFL7Ma",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC046",
+    "name": "Dr. Awwab Mohammad",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$bRoUSbIArNLM6o4Nh3ThEOt5zOJEU5U4uSIKJl07tml6hcREZnsRC",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC047",
+    "name": "Dr. Ganga Sharma",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$e/b8cfYOdYmGfQKgnRxedeTp0fSPpEcRCMaH//9u4/uwnOenM9Ykq",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC048",
+    "name": "Ms. Babita Yadav",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$AwuwH8uCJ7Eq2HK5d8ZiUudZ8ElUMjKfrbGwOo09y24WbBWiFVn2m",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC049",
+    "name": "Dr.Aditi Chaudhary",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$lrE3T4.RvgovBmTyHnMrteWv9QrReVmVLbVJD7OJMC1YaEj8QV.2W",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3d"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC050",
+    "name": "Prof. (Dr.) Dipali Bansal",
+    "designation": "Dean-Engineering",
+    "password": "$2b$10$U7.ZCN68ULscSYlqgLPrD.jeFgY//FimIsU9qWE.xgaIutkNheN0C",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC051",
+    "name": "Prof. (Dr.) Shruti Vashist",
+    "designation": "Prof., Dean-Academics",
+    "password": "$2b$10$TkiPMchi1UngO2ek6buGle8UMayxd1P8Q7MMaeVu2vjueWPlgxapK",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC052",
+    "name": "Dr. Meenakshi Gupta",
+    "designation": "Assoc. Prof.-Assoc. HoD",
+    "password": "$2b$10$MPxHskEkXHJXXe6CvQ2yauXGKxAHcV.TkJfFWPcXYh02XJ.7ZouOi",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC053",
+    "name": "Prof. (Dr.) Charu Pathak",
+    "designation": "Not Available",
+    "password": "$2b$10$yRcYBnFuJBrV4XZmz2ntV.nGNsiBRSI5nJsdgAB1ft8JuMoKqv7WO",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC054",
+    "name": "Mr. Bhanu Pratap Chaudhary",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$21sTeolwk7y3TfKWdo7qtec9LYfxQeIe65FFU1B298H.leiuhyL7u",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC055",
+    "name": "Mr. Lokesh Bhardwaj",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$xR4.a5I4lM5ijCKvY9EvlOQ.RxjLxxFH47odvvXBD10wPHAJBD1ba",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC056",
+    "name": "Dr. Niharika Thakur",
+    "designation": "Associate Dean-SW",
+    "password": "$2b$10$4QgOT2GOPsNgRAPHIfIuT.IKd5dXNq243PBdQEblb0puygGUsRHKe",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC057",
+    "name": "Dr. Piyush Charan",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$bapt704v0IUphLEpMMaGbuGMYXxLdLX/w.flMCXR60/9ojEEYm.rO",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC058",
+    "name": "Mr. Varun Yadav",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$FKCRvYNjxFdAUkDFQbVpcO67IsLZ5bnWyrI5.mFYVvzc9Nb3tvIma",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC059",
+    "name": "Mr. Vijay Kumar Gill",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$YIYBPZ7jTgOvNNHFofHqfOw5KMXWatTOphkYIRBvIKp7YnkH.T.oq",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC060",
+    "name": "Dr. Priyanka Bansal",
+    "designation": "Professor",
+    "password": "$2b$10$8BaqT8OvRxcQtNb.wxE1QuHaXrfC1e3..Fg2tZuRBKyP7jimUJnv.",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC061",
+    "name": "Dr. Pawan Kumar Sharma",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$U.5GICjUjlao7nE2Na5Rv./9Frk8XdSSOZitmfLEc7V7F6mtHG6QW",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC062",
+    "name": "Ms. Nitu Chauhan",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$cYeEJKw1xz9EeRGlmlap3uVI7783vXyTjJmFUCWmu1cQRB3GbmJCK",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC063",
+    "name": "Dr. Mohit Kumar Singh",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$L3YCC2afhmGVgjeO/3KYqeZWbAy3NesW.4mfclnuPmr1Os2Y9K58m",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3c"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC064",
+    "name": "Prof. Rashima Vaid",
+    "designation": "Dean-Edu. & Hum.",
+    "password": "$2b$10$nP0BFTbzYulsNSRPRsCA6.2GrQmMkRRusfn0hE2CmcN/df53DFHlO",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC065",
+    "name": "Prof. (Dr.) Rashee Singh",
+    "designation": "Professor",
+    "password": "$2b$10$vHy7f5jk0MrwGAxGdxxDHuxPMEE4IJiQD0F7utPutNfR1q5Yq4FcK",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC066",
+    "name": "Prof. (Dr.) Geeta Thakur",
+    "designation": "Professor",
+    "password": "$2b$10$cFP29480eL3ptZUGP8DvUuynApEYqPvz4GJFcY.tVd7FgR9jFanUu",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC067",
+    "name": "Dr. Akhilesh Dwivedi",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$75OfWjYigRAyy.VQuqIUmOw0/dQ1GIfWEN2WW34HNPV6Lpm5Gdq5G",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC068",
+    "name": "Dr. Arvinder Kaur",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$Kx2ZGkFCXtfbffMrZrBhsOQlql6XKZhTM1fbF3FR/44hMqPeNRh5y",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC069",
+    "name": "Dr. Eram Aziz",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$gpcVRayOekdCGIh2yJzJ8OT9Lni00P4XZT1x036szmaqb6ygdfLKi",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC070",
+    "name": "Ms. Meenal Rawat",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$ZLaGA/p5O3MQrv063rKZDOPXTvEjvvROdO7R5j0xT.VY0dr5xBmEW",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC071",
+    "name": "Dr. Mira Mishra",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$IEEPis4oLS.wBSMqYKSJ4e337Sev27q.Gfhv6/HX7jg1m4HJ0fUxO",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC072",
+    "name": "Dr. Pooja Parmar",
+    "designation": "Not Available",
+    "password": "$2b$10$DbWc9yo7jiNzYUyie8b1Re/vsPVr6JEHQ4fYYYRBVU1HOSBpHq77u",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC073",
+    "name": "Dr. Savita Sharma",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$EKg78zzxPuJxYIAUuNW2LucWwACd9RHdPKhjpGndhq0aWpssTGJ66",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC074",
+    "name": "Mr. Sharv Datt Anand",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$FYly0qA.VxWqEGTV28Vs5e53mgAMQyKbG2194IZP8d0JzMV5xUrtW",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC075",
+    "name": "Dr. Lakshya  Malhotra",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$RWWBp1eLpgDa1V/..6XTaON1Fdou0j141txFnh.EUSxlX0nUYm5yW",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC076",
+    "name": "Ms. Aishwarya Sharma",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$Cm7411N240FzxC7UPn99e.VwUwYymRbY9praqrJxgT8pQKg9Wxl7i",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b30"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC077",
+    "name": "Prof. (Dr.) Asha Verma",
+    "designation": "Professor, Dean-Law",
+    "password": "$2b$10$Y8NtOwU9NvafeDXRYrDX/..tZPUDTjBwxkMVSSJmICqfr5fMZgZA2",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC078",
+    "name": "Dr. Shaharyar Asaf Khan",
+    "designation": "Assoc. Dean-Academics Appl. Sc., Edu & Law",
+    "password": "$2b$10$VnpR2iIyREJNUtHbn/u4A.nmGDE77Z0C8BbJoVSkR3Wgi9ovb6W2a",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC079",
+    "name": "Prof. (Dr.) Ruchi Lal",
+    "designation": "Prof., HoD-Law",
+    "password": "$2b$10$0Xbw73dQOqWAnb7.J/wMgeXlEe8wzHvo9WUO2kL39WN3djeuUXfWO",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC080",
+    "name": "Prof. (Dr.) S. K. Bose",
+    "designation": "Professor",
+    "password": "$2b$10$1x7ZG8zYNnOcMaQkJsPKdOmcGFE7paGRKXgdrKFAOdIJ4OazGYexK",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC081",
+    "name": "Dr. Superna Venaik",
+    "designation": "Associate Professor",
+    "password": "$2b$10$7h59PMyqfkatavruCHIGhe8n9V8D7Bhj7FWYNUB.jG7E9LgX0ZtYK",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC082",
+    "name": "Dr. Chhavi Kulshretha",
+    "designation": "Associate Professor",
+    "password": "$2b$10$7n4NVINbH8N4DaV5F6nrM.dsXzvuxLJYUI0vWIwks3MWdK7BEOAua",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC083",
+    "name": "Dr. Tarundeep Kaur",
+    "designation": "Associate Professor",
+    "password": "$2b$10$GQ0YyyhIR0bfrfvcaFsPL.TJ0SK86FHU85l1id3DdkirTTArYkkDi",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC084",
+    "name": "Dr. Manisha Narula",
+    "designation": "Associate Professor",
+    "password": "$2b$10$GumipaZP7cM.ZQ8HvFkLpexY0OtH/0JfCHYWoLOCi6vt5S30n/xuC",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC085",
+    "name": "Dr. Ghazala Abidin",
+    "designation": "Associate Professor",
+    "password": "$2b$10$6.2TOkfjEv6.ARMmHwaTS.0DOtlcAHC3hid.EyXX/cW15qKejslrW",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC086",
+    "name": "Dr. Arushi Malik",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$nOH5n3EEKITWy0Wn0OWBp.BFUn80Bd6gNenilFCtfkaF/IjJOiY6K",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC087",
+    "name": "Ms. Asmita Patel",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$OfIIDr8lbvxcr0i7obBwQumZNVNE96l5Ufa4kpGo.Z5s4zjBldN.m",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC088",
+    "name": "Ms. Chaitali Wadhwa",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$s5EII7auC9lMQ9ZUU.1LeOYsK3vdkk5MTvQ3macPeK0swtO1zcXnG",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC089",
+    "name": "Ms. Nidhi",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$pKP1iF4iJXdSElE7m3pGHe89dXyd0/XnFcYaQ3p9qWuOymWkLNmue",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC090",
+    "name": "Ms. Sampriti Phukan",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$iNWehR5yL745kzWd6pqWMORtrJ2vjnOeBZV2cpU9Z5FY.pqMrPoDy",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC091",
+    "name": "Ms. Simran Singh",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$UExbx5XfhgTzD0a2.C5y6O6o/DfSKveE9fydbKTMZzIlOyMWTmMtu",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC092",
+    "name": "Ms. Vani Kataria",
+    "designation": "Res. Assoc.",
+    "password": "$2b$10$ir5aYzxzTlTn1bQMAeEuC.Y309EguBgGF5IkLJOygRcBPqN7SN6AW",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC093",
+    "name": "Dr. Yamini Atreya",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$3SZbjZn1kygZNvY6A8YXmuhae2S8PyJ0oAWon1lUK4x4yjBCNEj0C",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC094",
+    "name": "Dr. Aaratrika Pandey",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$d9dQTpn.Y6IA72r4kE0ckebMHo6f61diB83c6NeNfJX0yI9FS5y56",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC095",
+    "name": "Ms. Surabhi Sharma",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$eCnKC10K5y8lJBXWE0ZE7e2Vhpvkx.R5S665vKH0i9Ls/fUeWkos.",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC096",
+    "name": "Ms. Garima Pahwa",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$PxdNvNmoA.XUSp3/J1pg3uhxlfSjWm5P1x3H2WAkWr01uV5MDipse",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC097",
+    "name": "Dr.Apala Vatsa",
+    "designation": "Associate Professor",
+    "password": "$2b$10$5t3wYBico0ukXaEDpJOQw.M98gArkB.IfFU2q4xVe0Bw8H5BGNTSy",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC098",
+    "name": "Dr.Harshita Singh",
+    "designation": "Associate Professor",
+    "password": "$2b$10$cXLXX2CC8eyYtG.K3WotduMGEzaye2weLHFaCAB.J8gd2ODgFYrCq",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC099",
+    "name": "Mr Aditya Verma",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$g8CpFB8vIYuIpcxvX0nQju.vnRc05h3XHAjpuiOE72jN9oQ6Cz/gO",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC100",
+    "name": "Mr Anupam Sharma",
+    "designation": "Assistant Professor",
+    "password": "$2b$10$YMHforie/2tbM2/DtmKE7.VbDUqbxTUkscmgokLegH3eh0/yCDAqq",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b32"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC101",
+    "name": "Dr. Aparna Vyas",
+    "designation": "Assoc. Professor",
+    "password": "$2b$10$bgtND/I8oi8YA5OlC.jYRugyBvXo7n3w6O6BaNI70ThNaFcFFVlQS",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC102",
+    "name": "Prof. (Dr.) Deepa Arora",
+    "designation": "Prof., Director-IQAC",
+    "password": "$2b$10$LhpM1r1hwxUkHg7H3QTxpuoCyr9ZfIPoGc64/BWeonzQJJNs2vnHK",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC103",
+    "name": "Dr. Advin Masih",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$tfHMuqFQC/CaDqMjxIZmH.Rh4tLez3bVwvtjwrLRPHixivE99oYbK",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC104",
+    "name": "Dr. Ankita Gaur",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$pghxInnR97CvwCeXK.Snde1sSQdaCg7D0wHXVcqlRA2FEN9jFYtXK",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC105",
+    "name": "Dr. Bhawna Singla",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$cerVzmuUfjGpiuYBffRUR.xPtBAS3XrawR9/tzMT/q0GKenI3PN4a",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC106",
+    "name": "Dr. Dinesh Tripathi",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$By2Fj7B.Mo3MFI5XQefk8OLPP.G7sq5irI7kyBITGrl4M15VuQOqW",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC107",
+    "name": "Dr. Kamlesh Kumar",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$hmt8EOXCj4cYJJVGKFvJ1elDSPKXfK2CY8Z1J1X5vR/hKBsQNlD72",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC108",
+    "name": "Dr. Ramapati Maurya",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$DR4LQYATR5hgkzPof.QQtuqJz7v5eGZG/AeYVXB4wQubG8Qu/38S.",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC109",
+    "name": "Dr. Ruchi Gupta",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$lu0tc5idRdTpKq.u0zwrpOu3caRdwoVmsSMNbqFgDPDUqqL1cNwre",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC110",
+    "name": "Ms. Seema Aggarwal",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$3rUcF0S1vD2yi9wJe.F8qu0YS3wPFpu.7nSZKqT2m8/719biIN0VO",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC111",
+    "name": "Dr. M. Javed Idrisi",
+    "designation": "Professor",
+    "password": "$2b$10$ffaIKIOr0M3KAdHuFeviiuAhp34P6aT5uJo.YvobiQx5111E7zeF6",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC112",
+    "name": "Dr. Kushal Lalwani",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$m2INgmzLI2Wh5/BNFp.YYOq675aqFUG3mE8A8.lRe83EXe6/E30Dq",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b41"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC113",
+    "name": "Prof. (Dr.) Ajit",
+    "designation": "Professor, HoD-ME",
+    "password": "$2b$10$EppSj3USIbwm1P9s7IH7uugz7PrApYhnaeLSxINVCJU3TumGwBlQy",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC114",
+    "name": "Prof. (Dr.) Joginder Singh",
+    "designation": "Professor",
+    "password": "$2b$10$cafuQtYCKmI3QDSVfBIG9eGkaSsP6wiyfXaV/13Rm7Ox8Y/ZC3QrK",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC115",
+    "name": "Dr. Gianender Kajal",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$Cvn86kP541lWkN407dmtr.Ta.eVUIHW6V.YDDCaG9vnYJLCQvrNzG",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC116",
+    "name": "Dr. J. P. Sharma",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$Xm1ikcEUmiSo1ACyqOHfZOlPeWi8QVTNEy1jFttaO.oK53CkRRI3y",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC117",
+    "name": "Mr. Mandeep Bhadana",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$tm4h9Bcs21J7yUFxF9/GnOICXe4VQzYlm9u5MuGUC3cs52y4befmu",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC118",
+    "name": "Mr. Nazish Ahmad Shamsi",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$sZLvlRd/dSwBMebKMbq.me1lFIYvXncrMIYPUjsIqOuMbFqQUpOnq",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC119",
+    "name": "Dr. Piyush Mahendru",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$bRpd/T8ZyRFy/.KXqE/oc.8tnWQXeh0hsCEHyyqbiJRGbxo66LpyS",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC120",
+    "name": "Dr. Pradeep Kr. Mouria",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$TxrOpMR7tR4yIeOXTqwPZuAmCcPLA2sbsfV8nEHCUiknzz4IbB.si",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC121",
+    "name": "Dr. Prashant Bhardwaj",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$p0dD.yatkIWJK2KYYMSvmuAafgPNDmypBq5wD9X.u/dcnh7914n0O",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC122",
+    "name": "Dr. Smriti Mishra",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$WvQR9V1xlJtMk9tLqCk.c.0F70OARyIaLk1CTJ1i4SWh70gw2h.PW",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC123",
+    "name": "Dr. Zeba Naaz",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$VRNaP9NmMQccCTZ5zWj2lef88lzl6hNKEc3JF71kQSLCLYR/w.Jl6",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC124",
+    "name": "Prof. (Dr.) M. R. Tyagi",
+    "designation": "Adjunct Professor",
+    "password": "$2b$10$9GYw2OnMJpb217fAzbDkF.7Zdv4O6JsbEmjFdrzt5IGoz6n2BQTOO",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3e"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2e"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC125",
+    "name": "Prof. (Dr.) Parul Jhajharia",
+    "designation": "Prof., Dean Mgmt. & Comm.",
+    "password": "$2b$10$pd0ZpjuyD681gdISwSLrUOs1TRfoMggsCjo7kpDYaSephRKnxEHKi",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC126",
+    "name": "Prof. (Dr.) Pooja Kapoor",
+    "designation": "Professor",
+    "password": "$2b$10$nsVKynl29/0ux/b12daFHOB8V64mQSvi/PS6pdj5hNNjK3ER/Q7.a",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC127",
+    "name": "Prof. (Dr.) Pragati Chauhan & Dr. Teena Hassija",
+    "designation": "Professor",
+    "password": "$2b$10$70xt1/I.2cvAHDBe94sGsetQZPTn/rbsh/AhN0RTyOJ6jjaopwlam",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC128",
+    "name": "Prof. (Dr.) Yogita Sharma",
+    "designation": "Professor",
+    "password": "$2b$10$CWP/Szprzz7CPlyBrmSP1.Vc9uVNVUuSFD8zsXr5Scv.RA9GSz37q",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC129",
+    "name": "Prof. (Dr.) Sunil Kr Roy",
+    "designation": "HoD, Professor",
+    "password": "$2b$10$eDcl71HXiuFBWxOlZGKhgeVJYU48/d4EiPXVTIitbWvAQEMJE6y6m",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC130",
+    "name": "Prof. (Dr.) Animesh Singh",
+    "designation": "Professor",
+    "password": "$2b$10$4t2QbrW93kg52Nc/5etfq.yChpcUSogkqkt/tz6hMK60DQQ1xr58y",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC131",
+    "name": "Dr. Akanchha Singh",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$a8h234XNjw7ZxBB/ng.GP./kOfPd2uLj0ViHIcR27LJ/mz.yTTwTK",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC132",
+    "name": "Dr. Gurpreet Kaur",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$LWznEQccX6h2afOnFReY3.e7zQYvt3Ge6gqR0m.imQbqesMPnm32q",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC133",
+    "name": "Ms. Khushboo Gulati",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$5km20k.vK8fs8DAWAKNOS.7SRUDz5NhI4m5gBZnS6WR8hHpuV/G4.",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC134",
+    "name": "Mr. Maharaj Krishen Koul",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$OU7KCenM6ytvJB6IMCjnPeRmQPRrXuPB1y0oeKClpS5yS6vqZWt86",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC135",
+    "name": "Ms. Minakshi Sharma",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$DnRtWcXnJ2mZsPfsIesSV.BdmpH3jpX62oPt1LeXFYT1SYuPepVCm",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC136",
+    "name": "Mr. Neeraj Chopra",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$ePb1cJ7orJEqulR6dOSPnON2mD4BEMIpT.GJTJx7abitimAB7yMLm",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC137",
+    "name": "Dr. Rashi Banerji",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$oRmObBzBtAYJk5tO5MvZz.Q9DiOVoQAuoYaJ3NAB53bEA.JZKKZ.m",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC138",
+    "name": "Ms. Shagun Chahal",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$XHV0s/vqD3V.K1xUfNoT9exLRaN./fk6ZgBYX1JGfod40a72HCrj2",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC139",
+    "name": "Dr. Jagbir Singh Kadyan",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$biTuQLl7QopLPZb7UJBgHuf8DjVFWLt8E8xoXkgq91.kzmAQaCvDi",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC140",
+    "name": "Dr. Shweta Goel",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$ce6PmElxHQXOrsHjeNHFb.CMjlL1bfaLbm326cemCJDxgpzVQdwga",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC141",
+    "name": "Dr. Sunil Kr. Singh Kadyan",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$TNhxWgD2djHPgmjDMhGOc.3XS32FWtHXnLsC4uLvA3KrWGGl6v0Bq",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC142",
+    "name": "Ms. Vandana Bhat",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$H6QJOTeJQpolUtPFaXUZZ.iGwpSfWPYijcmUFh29zpDkRvH3R47Te",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC143",
+    "name": "Dr. Shuchi Singhal",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$Fl70ygcdmucwCZviPjKw0eVInlA.fqIGjGXZbK6K/YbCpg9aW/LwG",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC144",
+    "name": "Prof. Kartikeya Raman",
+    "designation": "Professor of Prac",
+    "password": "$2b$10$zbh.CEPkZ./IUv.vuRT1..Qtf7LbExP8ZUc.ylvVCLs5XeD2scvlW",
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b31"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC145",
+    "name": "Prof. (Dr.) D. K. Sharma",
+    "designation": "Prof., Dean-Examination",
+    "password": "$2b$10$0.3CrpGoomTaiLyHbm0KP.0SUzjo4sJ9yo5Gxi3QchiU7W7R7S4uS",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3f"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC146",
+    "name": "Prof. (Dr.) Sandeep Kumar",
+    "designation": "Professor,",
+    "password": "$2b$10$/vigwVO32y.eO/W0BDENNe2ZgpQbeNkxNaWD8gXhrwlqY88zSo04S",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3f"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC147",
+    "name": "Dr. Jitendra Pal Singh",
+    "designation": "Ramanujan Fellow",
+    "password": "$2b$10$rOYHyQLrHWnNhTt2zFCMXuMu.YnVlut0vXZDasPOLh1dj0OY3PIce",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3f"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC148",
+    "name": "Dr. Jai Parkash",
+    "designation": "Assoc. Prof.",
+    "password": "$2b$10$8BhT.oTEDRmeufHMoQo54ekgOrDDWuGcjRYsyIzfuXTh1KG7RtG3G",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3f"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC149",
+    "name": "Dr. Anshuman Sahai",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$20Ut62KI276to8s60NzOYOwmIpODA0nuZS18mvgv3UNWJfRFGfIgG",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3f"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC150",
+    "name": "Dr. Ananna Bardhan",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$00dhLYtcv868PHNaJjDuNuh.rRgaDZ6aO3ZhFla9Oe24ZqAIFwHBq",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3f"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC151",
+    "name": "Dr. Deepti Maikhuri",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$F6IuYRkBV11jvlWFO1YGWugTfNPxiWomY4lJEEF5eGaMtKLXRYY6G",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3f"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC152",
+    "name": "Dr. Moditma",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$CsZVMPUPyl5Ea8Eb.YSdyuuhbCxmd/FW8DcMn7ywxBWIqcaKu/CS2",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3f"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  },
+  {
+    "role": "faculty",
+    "facultyId": "FAC153",
+    "name": "Dr. Shiv Kumar Dixit",
+    "designation": "Asstt. Prof.",
+    "password": "$2b$10$GKfbrk0GbPmUyi09fZwrJOgHbelMAJh5nDpqIjm9y1Q7E7LEcJgsW",
+    "departmentId": {
+      "$oid": "68985166474bba2dd72a2b3f"
+    },
+    "schoolId": {
+      "$oid": "6898456c474bba2dd72a2b2f"
+    }
+  }
+]
